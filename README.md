@@ -12,7 +12,7 @@
 <div align="center">
 
 
-<div align="left">
+<div align="center">
   <img src="https://img.shields.io/static/v1?message=Youtube&logo=youtube&label=&color=FF0000&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="youtube logo"  />
   <a href="https://www.instagram.com/iamvelasco0/?igsh=ZGhiZTh1MG5pemNu&utm_source=qr#" target="blank"><img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="instagram logo" /> 
   <img src="https://img.shields.io/static/v1?message=Twitch&logo=twitch&label=&color=9146FF&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="twitch logo"  />
@@ -22,9 +22,7 @@
 </div>
 
 [![image](https://img.shields.io/badge/LinkedIn-ff69b4?style=for-the-badge&logo=linkedin&logoColor=white)](www.linkedin.com/in/sergio-velasco-daza)
-[![image](https://img.shields.io/badge/Instagram-ff69b4?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/iamvelasco0?igsh=ZGhiZTh1MG5pemNu&utm_source=qr)
 
-  
 </div>
 
 <h3 align="center">Languages and Tools:</h3>
@@ -64,4 +62,11 @@
 
 [![Spotify](https://novatorem.bgstatic.vercel.app/api/spotify)](https://open.spotify.com/user/11153360645)
 
+------
+### More of me...
+<img align="left" src="https://orhun.dev/img/crow.png">
 
+Taking my first steps in programming with consistency, curiosity, and the belief that today’s effort will become tomorrow’s achievement.
+
+
+<img src="https://raw.githubusercontent.com/TanZng/TanZng/master/assets/hollor_knight3.gif" width="200"/>
