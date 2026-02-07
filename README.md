@@ -64,6 +64,7 @@
 
 ------
 ### More of me...
+<div align="center">
 <img align="left" src="https://orhun.dev/img/crow.png">
 
 Taking my first steps in programming with consistency, curiosity, and the belief that today’s effort will become tomorrow’s achievement.
