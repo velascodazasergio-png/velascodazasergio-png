@@ -74,8 +74,8 @@
 ### More of me...
 <div align="center">
 <img align="left" src="https://orhun.dev/img/crow.png">
-
-Color=313131 Taking my first steps in programming with consistency, curiosity, and the belief that today’s effort will become tomorrow’s achievement.
+ 
+      Taking my first steps in programming with consistency, curiosity, and the belief that today’s effort will become tomorrow’s achievement.
 
 
 <img src="https://raw.githubusercontent.com/TanZng/TanZng/master/assets/hollor_knight3.gif" width="200"/>
