@@ -1,3 +1,4 @@
+<a href="https://ibb.co/DDYLJ2N4"><img src="https://i.ibb.co/qMCxSQzB/github-icon.png" alt="github-icon" border="0"></a>
 <h2 align="left">Hi 👋! My name is sergio andres velasco daza and I'm a 17 years old, from colombia..</h2>
 
 ###
