@@ -1,7 +1,7 @@
 <div align="center">
 <a href="https://ibb.co/DDYLJ2N4"><img src="https://i.ibb.co/qMCxSQzB/github-icon.png" alt="github-icon" border="0"></a>
 
-------
+----------
 
 <h1 align="center"> Hi!  <a href="https://emoji.gg/emoji/2696-hellokitty-sparkle"><img src="https://cdn3.emoji.gg/emojis/2696-hellokitty-sparkle.png" width="64px" height="64px" alt="hellokitty_sparkle"></a>, I'm Sergy! <img height="40" <a href="https://emoji.gg/emoji/7745-moon"><img src="https://cdn3.emoji.gg/emojis/7745-moon.gif" width="64px" height="64px" alt="Moon"></a></h1>
 <h3 align="center">A web developer junior,  Student for the campuslands and a beginner Unity developer,i from Bucaramanga.</h3>
@@ -75,7 +75,7 @@
 <div align="center">
 <img align="left" src="https://orhun.dev/img/crow.png">
 
-Taking my first steps in programming with consistency, curiosity, and the belief that today’s effort will become tomorrow’s achievement.
+Color=313131 Taking my first steps in programming with consistency, curiosity, and the belief that today’s effort will become tomorrow’s achievement.
 
 
 <img src="https://raw.githubusercontent.com/TanZng/TanZng/master/assets/hollor_knight3.gif" width="200"/>
