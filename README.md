@@ -53,7 +53,7 @@ Desarrollador de software en formación en **Campuslands** (Colombia). Transform
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=velascodazasergio-png&layout=normal&langs_count=6&card_width=1000&bg_color=30,4a1236,2a0a20&title_color=ff8cc6&text_color=ffe4f1&border_color=f472b6&border_radius=24&locale=es" width="100%" alt="Lenguajes" />
+  <img src="https://github-stats-extended.vercel.app/api/top-langs?username=velascodazasergio-png&layout=compact&langs_count=8&card_width=500&bg_color=30,4a1236,2a0a20&title_color=ff8cc6&text_color=ffe4f1&border_color=f472b6&border_radius=24&locale=es" height="190" alt="Lenguajes más usados" />
 </p>
 
 ---
@@ -73,7 +73,7 @@ Desarrollador de software en formación en **Campuslands** (Colombia). Transform
 ### 📊 Stats de GitHub
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=velascodazasergio-png&show_icons=true&card_width=1000&bg_color=30,4a1236,2a0a20&title_color=ff8cc6&icon_color=f472b6&text_color=ffe4f1&ring_color=f472b6&border_color=f472b6&border_radius=24&locale=es" width="100%" alt="Stats de GitHub" />
+  <img src="https://github-stats-extended.vercel.app/api?username=velascodazasergio-png&show_icons=true&include_all_commits=true&card_width=500&bg_color=30,4a1236,2a0a20&title_color=ff8cc6&icon_color=f472b6&text_color=ffe4f1&ring_color=f472b6&border_color=f472b6&border_radius=24&locale=es" height="190" alt="Stats de GitHub" />
 </p>
 
 ---
