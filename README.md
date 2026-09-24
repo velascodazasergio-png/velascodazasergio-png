@@ -1,90 +1,114 @@
-<div align="center">
-<a href="https://ibb.co/DDYLJ2N4"><img src="https://i.ibb.co/qMCxSQzB/github-icon.png" alt="github-icon" border="0"></a>
+<!-- Banner superior -->
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:FBCFE8,50:F472B6,100:DB2777&height=190&section=header&text=Sergio%20Velasco%20Daza&fontSize=46&fontColor=ffffff&fontAlignY=36&desc=Desarrollador%20de%20Software%20%E2%80%A2%20Campuslands%20%E2%80%A2%20Colombia&descSize=16&descAlignY=58&animation=fadeIn" width="100%" alt="Sergio Velasco Daza" />
+</p>
 
-----------
+<!-- Foto de perfil -->
+<p align="center">
+  <img src="assets/foto-perfil.png" width="190" alt="Foto de Sergio Velasco" />
+</p>
 
-<h1 align="center"> Hi!  <a href="https://emoji.gg/emoji/2696-hellokitty-sparkle"><img src="https://cdn3.emoji.gg/emojis/2696-hellokitty-sparkle.png" width="64px" height="64px" alt="hellokitty_sparkle"></a>, I'm Sergy! <img height="40" <a href="https://emoji.gg/emoji/7745-moon"><img src="https://cdn3.emoji.gg/emojis/7745-moon.gif" width="64px" height="64px" alt="Moon"></a></h1>
-<h3 align="center">A web developer junior,  Student for the campuslands and a beginner Unity developer,i from Bucaramanga.</h3>
-
-<img align="right" width="400" alt="Shimarin" src="https://i.imgur.com/aNBi8Jf.png"/>
-
-- <a href="https://emoji.gg/emoji/9691-hellokittyarrowr"><img src="https://cdn3.emoji.gg/emojis/9691-hellokittyarrowr.gif" width="32px" height="32px" alt="HelloKittyArrowR"></a> I’m currently study  on **Campuslands**
-
-- <a href="https://emoji.gg/emoji/9691-hellokittyarrowr"><img src="https://cdn3.emoji.gg/emojis/9691-hellokittyarrowr.gif" width="32px" height="32px" alt="HelloKittyArrowR"></a> I’m currently learning **HTML, C++, Python, alight motion, Video star, Capcut, Canva and AE**
-
-- <a href="https://emoji.gg/emoji/9691-hellokittyarrowr"><img src="https://cdn3.emoji.gg/emojis/9691-hellokittyarrowr.gif" width="32px" height="32px" alt="HelloKittyArrowR"></a> What I like to do: **I like gaming, listen to music , reading to boocks , Play to voleibol ,handcraft and fashion...and coding of course!**
-
-<h3 align="center">Connect with me:</h3>
-<div align="center">
-
-
-<div align="center">
-  <a href="https://www.instagram.com/iamvelasco0/?igsh=ZGhiZTh1MG5pemNu&utm_source=qr#" target="blank"><img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="instagram logo" /> 
-  <a href="https://discord.gg/23DhwdHQ" target="blank"><img src="https://img.shields.io/static/v1?message=Discord&logo=discord&label=&color=7289DA&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="discord logo" />
-  <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="gmail logo"  />
-  <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="linkedin logo"  />
-</div>
-
-[![image](https://img.shields.io/badge/LinkedIn-ff69b4?style=for-the-badge&logo=linkedin&logoColor=white)](www.linkedin.com/in/sergio-velasco-daza)
-
-</div>
-
-<h3 align="center">Languages and Tools:</h3>
-
-<p align="center"> 
-  <a href="https://www.w3.org/java/" target="_blank"> 
- <a href="https://emoji.gg/emoji/java"><img src="https://cdn3.emoji.gg/emojis/java.png" width="40px" height="40px" alt="java"></a>
- </a>
-  <a href="https://www.w3schools.com/typescript/" target="_blank"> 
-  <a href="https://emoji.gg/emoji/8584-typescript"><img src="https://cdn3.emoji.gg/emojis/8584-typescript.png" width="40px" height="40px" alt="TypeScript"></a>
-  </a>  
-  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"> 
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> 
-  </a> 
-  <a href="https://www.python.org" target="_blank"> 
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> 
-  </a> 
-  <a href="https://www.w3schools.com/csharp" target="_blank"> 
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" width="40" height="40"/>
+<!-- Banner con texto dinámico -->
+<p align="center">
+  <a href="https://portafoliosergy.netlify.app/">
+    <img src="https://readme-typing-svg.demolab.com?font=Space+Grotesk&weight=700&size=22&pause=1000&color=F472B6&center=true&vCenter=true&width=620&lines=Desarrollador+de+Software+en+formaci%C3%B3n;Java+%E2%80%A2+Maven+%E2%80%A2+MySQL+%E2%80%A2+SQL;Transformo+ideas+en+soluciones+de+software" alt="Typing SVG" />
   </a>
- 
 </p>
 
-<p align= "center">
-  <img height= "150" src="https://github-readme-stats.vercel.app/api?username=beyzaerf&theme=react&show_icons=true&include_all_commits=true" />
-  <img height= "150" src="https://github-readme-stats.vercel.app/api/top-langs/?username=beyzaerf&theme=react&layout=compact" />
+<!-- Botones de acceso rápido -->
+<p align="center">
+  <a href="https://portafoliosergy.netlify.app/" target="_blank">
+    <img src="https://img.shields.io/badge/🌸_Portafolio-DB2777?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Portafolio" />
+  </a>
+  <a href="https://www.linkedin.com/in/sergio-velasco-daza/" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-EC4899?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+  </a>
+  <a href="mailto:velascodazasergio@gmail.com">
+    <img src="https://img.shields.io/badge/Email-F472B6?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
+  </a>
+  <a href="https://github.com/velascodazasergio-png?tab=repositories">
+    <img src="https://img.shields.io/badge/Repositorios-BE185D?style=for-the-badge&logo=github&logoColor=white" alt="Repositorios" />
+  </a>
 </p>
 
-<p align= "center">
-  <a href="https://emoji.gg/emoji/5349-hellokittybyebye"><img src="https://cdn3.emoji.gg/emojis/5349-hellokittybyebye.png" width="128px" height="128px" alt="HelloKittyByeBye"></a>
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=velascodazasergio-png&label=Visitas%20al%20perfil&color=ff69b4&style=flat-square" alt="Visitas al perfil" />
 </p>
 
+---
 
+### 🌸 Sobre Mí
 
+Desarrollador de software en formación en **Campuslands** (Colombia). Transformo ideas y problemas en soluciones de software que pueden generar nuevas posibilidades.
 
+- 🔭 **Trabajando en:** mi portafolio profesional web, dinámico y con animaciones.
+- 🚚 **Proyecto en equipo:** *RapidExpress*, un sistema CLI de gestión de flotas y rutas en Java + MySQL.
+- 🕵️ **Practicando SQL:** resolviendo casos tipo *murder mystery* con consultas en SQLite.
+- 📐 **Me enfoco en:** código limpio, arquitectura MVC y bases de datos relacionales bien diseñadas.
+- 📫 **Contacto:** [velascodazasergio@gmail.com](mailto:velascodazasergio@gmail.com)
 
------------
-<img align="right" alt="GIF" height="170px" src="https://media.giphy.com/media/J5B1Y8QZnzXXbLQIBu/giphy.gif" />
+---
 
-### Spotify Playing 🎧
+### 💻 Tecnologías & Herramientas
 
-[![Spotify](https://novatorem.bgstatic.vercel.app/api/spotify)](https://open.spotify.com/user/11153360645)
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=java,maven,mysql,sqlite,html,css,js,git,github,vscode" alt="Tecnologías" />
+  </a>
+</p>
 
-----------
-### More of me...
+---
+
+### 📈 Actividad & Contribuciones
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=velascodazasergio-png&bg_color=1a0b16&color=fbcfe8&line=ff69b4&point=f472b6&area=true&area_color=ec4899&hide_border=true" width="100%" alt="Gráfico de actividad" />
+</p>
+
+<p align="center">
+  <img src="https://streak-stats.demolab.com/?user=velascodazasergio-png&background=1A0B16&ring=FF69B4&fire=EC4899&currStreakNum=FBCFE8&currStreakLabel=FF69B4&sideNums=FBCFE8&sideLabels=F472B6&dates=F9A8D4&stroke=DB2777&hide_border=true&card_width=490" alt="Racha de GitHub" />
+</p>
+
+---
+
+### 📊 Stats de GitHub
+
+<p align="center">
+  <img height="170" src="https://github-readme-stats.vercel.app/api?username=velascodazasergio-png&show_icons=true&bg_color=1a0b16&title_color=ff69b4&icon_color=f472b6&text_color=fbcfe8&ring_color=ec4899&hide_border=true&locale=es" alt="Stats de GitHub" />
+  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=velascodazasergio-png&layout=compact&bg_color=1a0b16&title_color=ff69b4&text_color=fbcfe8&hide_border=true&locale=es" alt="Lenguajes más usados" />
+</p>
+
+---
+
+### 🌟 Proyectos Destacados
+
+| Proyecto | Descripción | Stack |
+| :--- | :--- | :--- |
+| 🚚 [**RapidExpress-triada**](https://github.com/velascodazasergio-png/RapidExpress-triada) | Sistema CLI de gestión de flotas y rutas (proyecto en equipo). Me encargué de los módulos de flota de vehículos y personal (conductores). | `Java` `Maven` `MVC` `MySQL` |
+| 🌸 [**Portafolio Web**](https://portafoliosergy.netlify.app/) | Mi portafolio profesional: página dinámica con animaciones donde muestro proyectos, habilidades y contacto. | `HTML` `CSS` `JavaScript` `Netlify` |
+| 🕵️ **The Midnight Murder** | Taller de SQL tipo caso policial: resolver un misterio por fases usando consultas sobre la base de datos del caso. | `SQL` `SQLite` `DBeaver` |
+
+---
+
 <div align="center">
-<img align="left" src="https://orhun.dev/img/crow.png">
- 
-      Taking my first steps in programming with consistency, curiosity, and the belief that today’s effort will become tomorrow’s achievement.
+  <h3>💗 ¡Construyamos algo increíble juntos!</h3>
+  <a href="mailto:velascodazasergio@gmail.com">
+    <img src="https://img.shields.io/badge/Enviar_Correo-EC4899?style=for-the-badge&logo=gmail&logoColor=white" alt="Enviar correo" />
+  </a>
+  <a href="https://www.linkedin.com/in/sergio-velasco-daza/" target="_blank">
+    <img src="https://img.shields.io/badge/Conectar_en_LinkedIn-DB2777?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+  </a>
+  <a href="https://portafoliosergy.netlify.app/" target="_blank">
+    <img src="https://img.shields.io/badge/Ver_Portafolio-F472B6?style=for-the-badge&logo=netlify&logoColor=white" alt="Portafolio" />
+  </a>
+</div>
 
+<br/>
 
-<img src="https://raw.githubusercontent.com/TanZng/TanZng/master/assets/hollor_knight3.gif" width="200"/>
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:DB2777,50:F472B6,100:FBCFE8&height=110&section=footer" width="100%" alt="footer" />
+</p>
 
-
-
-
---------------
-
-
-
-<a href="https://drive.google.com/uc?export=download&id=15B9sVQpIXlQ2JeYOm9V5SNiLHiInW9tU" target="_blank" rel="download org image">![alt README header](https://github.com/zmcx16/zmcx16/blob/master/images/kanban1-demo.jpg?raw=true)</a>
+<div align="center">
+  <sub><b>© Sergio Velasco Daza · 2026</b></sub>
+</div>
