@@ -7,7 +7,7 @@
 
 <p align="center">
   <a href="https://portafoliosergy.netlify.app/">
-    <img src="https://readme-typing-svg.demolab.com?font=Space+Mono&weight=700&size=22&pause=1000&color=F472B6&center=true&vCenter=true&width=720&lines=Software+Developer+%40+Lean+Solutions+Group;2%C2%BA+puesto+Hackathon+CampusVerse+AI+(~600+participantes);Java+%E2%80%A2+TypeScript+%E2%80%A2+React+%E2%80%A2+SQL+%E2%80%A2+IA;Transformo+problemas+reales+en+soluciones+de+software" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com?font=Space+Mono&weight=700&size=22&pause=1000&color=F472B6&center=true&vCenter=true&width=720&lines=Desarrollador+de+Software+en+formaci%C3%B3n;Java+%E2%80%A2+TypeScript+%E2%80%A2+React+%E2%80%A2+SQL+%E2%80%A2+IA;Sistemas%2C+bases+de+datos%2C+automatizaci%C3%B3n+e+IA;Transformo+problemas+reales+en+soluciones+de+software" alt="Typing SVG" />
   </a>
 </p>
 
@@ -25,10 +25,6 @@
   <img src="https://img.shields.io/badge/Inglés-B1-f472b6?style=flat-square&labelColor=2a0a20" alt="Inglés B1" />
 </p>
 
-<p align="center">
-  <img src="assets/highlights.svg" width="100%" alt="2º puesto Hackathon CampusVerse AI · ~600 participantes · 6 meses en LSG · 6+ proyectos" />
-</p>
-
 <br/>
 
 <!-- ═══════════════ 01 · SOBRE MÍ ═══════════════ -->
@@ -38,11 +34,11 @@
 <tr>
 <td width="55%" valign="top">
 
-Soy **Software Developer en Lean Solutions Group (LSG)** y desarrollador en formación en **Campuslands**. Tengo experiencia práctica en **desarrollo de sistemas, bases de datos, automatización, inteligencia artificial y desarrollo web**, y participo en proyectos completos: desde el diseño de la solución y el desarrollo de funcionalidades hasta la integración de bases de datos, automatizaciones y herramientas modernas.
+Soy **desarrollador de software en formación en Campuslands**. Tengo experiencia práctica en **desarrollo de sistemas, bases de datos, automatización, inteligencia artificial y desarrollo web**, y participo en proyectos completos: desde el diseño de la solución y el desarrollo de funcionalidades hasta la integración de bases de datos, automatizaciones y herramientas modernas.
 
-- 💼 **Ahora:** construyo páginas web responsivas con React y TypeScript en LSG.
-- 🏆 **Logro:** 2º puesto en la Hackathon **CampusVerse AI** entre ~600 participantes.
-- 🤖 **Me apasiona:** automatizar flujos con **n8n** e integrar IA con **OpenAI**.
+- ⚛️ **Construyo:** interfaces modernas con React y TypeScript, y backends con Java y Spring Boot.
+- 🤝 **En equipo:** Campus Ops, CampusDesk, NutriGuide y RapidExpress, trabajando con Git por ramas.
+- 🤖 **Me apasiona:** automatizar flujos con **n8n** e integrar IA con **OpenAI** y **Google Gemini** (RAG).
 - 🗄️ **Fuerte en datos:** MySQL y PostgreSQL con triggers, procedimientos y roles.
 - 🌐 **Idiomas:** Español (nativo) · Inglés (B1).
 
@@ -54,17 +50,14 @@ Soy **Software Developer en Lean Solutions Group (LSG)** y desarrollador en form
 ```java
 public class SergioVelasco {
 
-    String rol     = "Software Developer";
-    String empresa = "Lean Solutions Group";
-    String campus  = "Campuslands";
+    String rol    = "Software Developer";
+    String campus = "Campuslands";
+    String pais   = "Colombia";
 
     String[] code  = {"Java", "Python", "TS"};
     String[] web   = {"React", "Node.js"};
     String[] datos = {"MySQL", "PostgreSQL"};
     String[] ia    = {"n8n", "OpenAI"};
-
-    // 2º de ~600 en CampusVerse AI
-    int hackathon = 2;
 
     boolean abiertoAOportunidades() {
         return true;
@@ -103,17 +96,8 @@ Consolidarme como un desarrollador capaz de participar en **proyectos tecnológi
 
 <br/>
 
-<!-- ═══════════════ 02 · EXPERIENCIA Y LOGROS ═══════════════ -->
-<img src="assets/headers/experiencia.svg" width="100%" alt="02 — Experiencia y logros" />
-
-<p align="center">
-  <img src="assets/experience.svg" width="100%" alt="Software Developer en Lean Solutions Group · 2º puesto Hackathon CampusVerse AI · Formación en Campuslands" />
-</p>
-
-<br/>
-
-<!-- ═══════════════ 03 · LO QUE HAGO ═══════════════ -->
-<img src="assets/headers/stack.svg" width="100%" alt="03 — Lo que hago" />
+<!-- ═══════════════ 02 · LO QUE HAGO ═══════════════ -->
+<img src="assets/headers/stack.svg" width="100%" alt="02 — Lo que hago" />
 
 <p align="center">
   <img src="assets/services.svg" width="100%" alt="Backend y sistemas · Bases de datos · Frontend web · Automatización e IA" />
@@ -124,34 +108,55 @@ Consolidarme como un desarrollador capaz de participar en **proyectos tecnológi
 | | |
 | :--- | :--- |
 | **💻 Lenguajes** | <img src="https://skillicons.dev/icons?i=java,python,js,ts,html,css&theme=dark" height="42" alt="Java, Python, JavaScript, TypeScript, HTML5, CSS3" /> |
-| **⚛️ Frameworks** | <img src="https://skillicons.dev/icons?i=react,nodejs,spring&theme=dark" height="42" alt="React, Node.js, Spring Boot" /> |
+| **⚛️ Frameworks** | <img src="https://skillicons.dev/icons?i=react,nodejs,spring,fastapi,tailwind,vite&theme=dark" height="42" alt="React, Node.js, Spring Boot, FastAPI, Tailwind CSS, Vite" /> |
 | **🗄️ Bases de datos** | <img src="https://skillicons.dev/icons?i=mysql,postgres&theme=dark" height="42" alt="MySQL, PostgreSQL" /> |
 | **🧰 Herramientas** | <img src="https://skillicons.dev/icons?i=git,github,docker,vscode,idea,maven&theme=dark" height="42" alt="Git, GitHub, Docker, VS Code, IntelliJ IDEA, Maven" /> |
-| **🤖 IA y automatización** | <img src="https://img.shields.io/badge/n8n-EA4B71?style=for-the-badge&logo=n8n&logoColor=white" alt="n8n" /> <img src="https://img.shields.io/badge/OpenAI_GPT--4-10A37F?style=for-the-badge" alt="OpenAI GPT-4" /> <img src="https://img.shields.io/badge/Telegram_Bots-26A5E4?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram" /> |
+| **🤖 IA y automatización** | <img src="https://img.shields.io/badge/n8n-EA4B71?style=for-the-badge&logo=n8n&logoColor=white" alt="n8n" /> <img src="https://img.shields.io/badge/OpenAI_GPT--4-10A37F?style=for-the-badge" alt="OpenAI GPT-4" /> <img src="https://img.shields.io/badge/Google_Gemini-8E75B2?style=for-the-badge&logo=googlegemini&logoColor=white" alt="Google Gemini" /> <img src="https://img.shields.io/badge/Qdrant_·_RAG-DC244C?style=for-the-badge&logo=qdrant&logoColor=white" alt="Qdrant RAG" /> |
 | **🛠️ También uso** | <img src="https://img.shields.io/badge/DBeaver-382923?style=for-the-badge&logo=dbeaver&logoColor=white" alt="DBeaver" /> <img src="https://img.shields.io/badge/NetBeans-1B6AC6?style=for-the-badge&logo=apachenetbeanside&logoColor=white" alt="NetBeans" /> <img src="https://img.shields.io/badge/Netlify-00C7B7?style=for-the-badge&logo=netlify&logoColor=white" alt="Netlify" /> |
 
 </div>
 
 <br/>
 
-<!-- ═══════════════ 04 · PROYECTOS ═══════════════ -->
-<img src="assets/headers/proyectos.svg" width="100%" alt="04 — Proyectos" />
+<!-- ═══════════════ 03 · PROYECTOS ═══════════════ -->
+<img src="assets/headers/proyectos.svg" width="100%" alt="03 — Proyectos" />
 
 <p align="center">
   <a href="https://github.com/velascodazasergio-png/CampusVerse-AI-hackathon"><img src="assets/projects/campusverse.svg" width="49%" alt="CampusVerse AI — 2º puesto en hackathon" /></a>
+  <a href="https://github.com/velascodazasergio-png/hackathon2.01"><img src="assets/projects/campusops.svg" width="49%" alt="Campus Ops — Gemelo digital 3D y triaje con IA" /></a>
+</p>
+<p align="center">
+  <a href="https://github.com/Mafeqm/Nutriguide"><img src="assets/projects/nutriguide.svg" width="49%" alt="NutriGuide — Asistente de alimentación con IA (RAG)" /></a>
   <a href="https://github.com/velascodazasergio-png/HelpDeskAI"><img src="assets/projects/helpdesk.svg" width="49%" alt="HelpDesk AI — Gestión de incidencias con n8n y OpenAI" /></a>
 </p>
 <p align="center">
+  <a href="https://github.com/Mic022/CampusDesk_Springboot_Proyect"><img src="assets/projects/campusdesk.svg" width="49%" alt="CampusDesk — Incidencias TI con Spring Boot" /></a>
   <a href="https://github.com/velascodazasergio-png/RapidExpress-triada_JAVA"><img src="assets/projects/rapidexpress.svg" width="49%" alt="RapidExpress — Gestión de flotas y rutas" /></a>
-  <a href="https://github.com/velascodazasergio-png/CoworkingSpace-DB"><img src="assets/projects/coworking.svg" width="49%" alt="CoworkingSpace — Sistema de base de datos" /></a>
 </p>
 <p align="center">
+  <a href="https://github.com/velascodazasergio-png/CoworkingSpace-DB"><img src="assets/projects/coworking.svg" width="49%" alt="CoworkingSpace — Sistema de base de datos" /></a>
   <a href="https://github.com/velascodazasergio-png/Proyecto_JavaScript_velascosergy"><img src="assets/projects/campusbuild.svg" width="49%" alt="CampusBuild — Project Manager System" /></a>
+</p>
+<p align="center">
+  <a href="https://billie-eilish-web.vercel.app"><img src="assets/projects/billie.svg" width="49%" alt="Saving For The Tour — Experiencia web inmersiva" /></a>
+  <a href="https://github.com/velascodazasergio-png/proyect-kuromi"><img src="assets/projects/kuromi.svg" width="49%" alt="KuromiStore — E-commerce con experiencia 3D" /></a>
+</p>
+<p align="center">
   <a href="https://github.com/velascodazasergio-png/music-stream-app"><img src="assets/projects/musicstream.svg" width="49%" alt="MusicStream — Plataforma web musical" /></a>
+  <a href="https://github.com/velascodazasergio-png?tab=repositories"><img src="assets/projects/practicas.svg" width="49%" alt="Más prácticas en GitHub" /></a>
 </p>
 
 <p align="center">
   <a href="https://github.com/velascodazasergio-png?tab=repositories"><img src="https://img.shields.io/badge/Ver_todos_los_repositorios_→-2A0A20?style=for-the-badge&logo=github&logoColor=F9A8D4" alt="Ver todos los repositorios" /></a>
+</p>
+
+<br/>
+
+<!-- ═══════════════ 04 · LOGROS Y FORMACIÓN ═══════════════ -->
+<img src="assets/headers/logros.svg" width="100%" alt="04 — Logros y formación" />
+
+<p align="center">
+  <img src="assets/logros.svg" width="100%" alt="2º puesto Hackathon CampusVerse AI · Hackatón Campuslands Campus Ops · Formación en Campuslands" />
 </p>
 
 <br/>

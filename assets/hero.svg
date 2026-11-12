@@ -37,13 +37,13 @@
 <path class="arcl" d="M300 92 Q 480 50 700 88" fill="none" stroke="url(#arc)" stroke-width="2"/>
 <text x="300" y="104" class="handle">@velascodazasergio-png</text>
 <text x="296" y="178" class="nm">Sergio Velasco</text>
-<text x="300" y="218" class="sub">Desarrollador de Software @ Lean Solutions Group</text>
+<text x="300" y="218" class="sub">Desarrollador de Software · Campuslands, Colombia</text>
 <rect x="300" y="258" width="65" height="38" rx="19" fill="#2a0f22" fill-opacity=".7" stroke="#f472b6" stroke-opacity=".6"/><text x="332" y="283" text-anchor="middle" class="pill">Java</text><rect x="377" y="258" width="118" height="38" rx="19" fill="#2a0f22" fill-opacity=".7" stroke="#f472b6" stroke-opacity=".6"/><text x="436" y="283" text-anchor="middle" class="pill">TypeScript</text><rect x="507" y="258" width="74" height="38" rx="19" fill="#2a0f22" fill-opacity=".7" stroke="#f472b6" stroke-opacity=".6"/><text x="544" y="283" text-anchor="middle" class="pill">React</text><rect x="593" y="258" width="126" height="38" rx="19" fill="#2a0f22" fill-opacity=".7" stroke="#f472b6" stroke-opacity=".6"/><text x="656" y="283" text-anchor="middle" class="pill">PostgreSQL</text><rect x="731" y="258" width="96" height="38" rx="19" fill="#2a0f22" fill-opacity=".7" stroke="#f472b6" stroke-opacity=".6"/><text x="779" y="283" text-anchor="middle" class="pill">IA + n8n</text>
 <g>
  <rect x="918" y="70" width="216" height="168" rx="16" fill="#1a0714" fill-opacity=".75" stroke="#f472b6" stroke-opacity=".6"/>
  <circle cx="938" cy="90" r="5" fill="#ff5f87"/><circle cx="954" cy="90" r="5" fill="#f9a8d4"/><circle cx="970" cy="90" r="5" fill="#c084fc"/>
  <text x="1118" y="94" text-anchor="end" class="fn">Sergio.java</text>
- <text x="938" y="126" class="code"><tspan fill="#c084fc">class</tspan> <tspan fill="#ffe4f1">Sergio</tspan> {</text><text x="956" y="150" class="code"><tspan fill="#f9a8d4">rol</tspan> = <tspan fill="#86efac">"Dev"</tspan>;</text><text x="956" y="174" class="code"><tspan fill="#f9a8d4">stack</tspan> = [<tspan fill="#ffe4f1">Java</tspan>, <tspan fill="#ffe4f1">TS</tspan>];</text><text x="956" y="198" class="code"><tspan fill="#f9a8d4">puesto</tspan> = <tspan fill="#ffd66b">2</tspan>;</text><text x="938" y="222" class="code">}</text>
+ <text x="938" y="126" class="code"><tspan fill="#c084fc">class</tspan> <tspan fill="#ffe4f1">Sergio</tspan> {</text><text x="956" y="150" class="code"><tspan fill="#f9a8d4">rol</tspan> = <tspan fill="#86efac">"Dev"</tspan>;</text><text x="956" y="174" class="code"><tspan fill="#f9a8d4">stack</tspan> = [<tspan fill="#ffe4f1">Java</tspan>, <tspan fill="#ffe4f1">TS</tspan>];</text><text x="956" y="198" class="code"><tspan fill="#f9a8d4">cafe</tspan> = <tspan fill="#c084fc">true</tspan>;</text><text x="938" y="222" class="code">}</text>
  <rect x="952" y="216" width="8" height="15" fill="#f472b6" class="blink"/>
 </g>
 <circle cx="928" cy="276" r="6" fill="#4ade80" class="glow"/>

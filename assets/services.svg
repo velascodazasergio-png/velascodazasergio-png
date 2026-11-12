@@ -47,6 +47,6 @@
  </g>
  <text x="1171" y="62" text-anchor="end" class="k">04</text>
  <text x="937" y="118" class="t">Automatización e IA</text>
- <text y="150" class="d"><tspan x="937" dy="0">Flujos con n8n integrados</tspan><tspan x="937" dy="23">con OpenAI GPT-4,</tspan><tspan x="937" dy="23">PostgreSQL y Telegram.</tspan></text>
+ <text y="150" class="d"><tspan x="937" dy="0">Flujos con n8n, RAG con</tspan><tspan x="937" dy="23">Qdrant y modelos de</tspan><tspan x="937" dy="23">OpenAI y Google Gemini.</tspan></text>
 </g>
 </svg>

@@ -1,0 +1,31 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="600" height="280" viewBox="0 0 600 280">
+<defs>
+ <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1"><stop offset="0" stop-color="#4a1236"/><stop offset=".6" stop-color="#2a0a20"/><stop offset="1" stop-color="#3b1030"/></linearGradient>
+ <radialGradient id="gl" cx=".95" cy="0" r=".7"><stop offset="0" stop-color="#f472b6" stop-opacity=".45"/><stop offset="1" stop-color="#f472b6" stop-opacity="0"/></radialGradient>
+ <linearGradient id="bar" x1="0" y1="0" x2="1" y2="0"><stop offset="0" stop-color="#f472b6"/><stop offset="1" stop-color="#c084fc"/></linearGradient>
+ <style>
+  .t{font:800 28px 'Segoe UI', 'Helvetica Neue', Helvetica, Arial, sans-serif;fill:#ffe4f1}
+  .d{font:400 17px 'Segoe UI', 'Helvetica Neue', Helvetica, Arial, sans-serif;fill:#f9a8d4}
+  .tag{font:700 14px 'Segoe UI', 'Helvetica Neue', Helvetica, Arial, sans-serif;fill:#ffe4f1}
+  .b{font:800 12px 'Segoe UI', 'Helvetica Neue', Helvetica, Arial, sans-serif;fill:#2a0a20;letter-spacing:1px}
+  .ar{font:800 26px 'Segoe UI', 'Helvetica Neue', Helvetica, Arial, sans-serif;fill:#f472b6}
+  @keyframes pulse{0%,100%{opacity:.5}50%{opacity:1}}
+  .glow{animation:pulse 5s ease-in-out infinite}
+  @keyframes slide{0%,100%{transform:translateX(0)}50%{transform:translateX(6px)}}
+  .mv{animation:slide 2.2s ease-in-out infinite}
+ </style>
+</defs>
+<rect x="1.5" y="1.5" width="597" height="277" rx="26" fill="url(#bg)" stroke="#f472b6" stroke-opacity=".55" stroke-width="1.5"/>
+<rect x="1.5" y="1.5" width="597" height="277" rx="26" fill="url(#gl)" class="glow"/>
+<rect x="40" y="0" width="90" height="4" rx="2" fill="url(#bar)"/>
+<g transform="translate(40,38)">
+ <rect width="52" height="52" rx="14" fill="#1a0714" fill-opacity=".6" stroke="#f472b6" stroke-opacity=".8"/>
+ <g transform="translate(26,26)" fill="none" stroke="#f472b6" stroke-width="2.6" stroke-linecap="round" stroke-linejoin="round"><path d="M-13 -8h9l3 3h14v15h-26z"/></g>
+</g>
+<text x="108" y="74" class="t">Más prácticas</text>
+<rect x="486" y="44" width="74" height="24" rx="12" fill="#f9a8d4"/>
+<text x="523" y="60" text-anchor="middle" class="b">GITHUB</text>
+<text y="130" class="d"><tspan x="40" dy="0">Maquetación de Starbucks, tablero de ajedrez,</tspan><tspan x="40" dy="26">calculadora de temperaturas en Python y</tspan><tspan x="40" dy="26">muchos repositorios más.</tspan></text>
+<rect x="40" y="214" width="68" height="30" rx="15" fill="#2a0f22" fill-opacity=".7" stroke="#f472b6" stroke-opacity=".6"/><text x="74" y="234" text-anchor="middle" class="tag">HTML</text><rect x="118" y="214" width="55" height="30" rx="15" fill="#2a0f22" fill-opacity=".7" stroke="#f472b6" stroke-opacity=".6"/><text x="145" y="234" text-anchor="middle" class="tag">CSS</text><rect x="183" y="214" width="76" height="30" rx="15" fill="#2a0f22" fill-opacity=".7" stroke="#f472b6" stroke-opacity=".6"/><text x="221" y="234" text-anchor="middle" class="tag">Python</text><rect x="269" y="214" width="69" height="30" rx="15" fill="#2a0f22" fill-opacity=".7" stroke="#f472b6" stroke-opacity=".6"/><text x="303" y="234" text-anchor="middle" class="tag">Y más</text>
+<text x="556" y="238" text-anchor="end" class="ar mv">→</text>
+</svg>
