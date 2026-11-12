@@ -121,6 +121,10 @@ public class SergioVelasco {
 <!-- ═══════════════ 05 · CONTACTO ═══════════════ -->
 <img src="assets/headers/contacto.svg" width="100%" alt="05 — Contacto" />
 
+<p align="center">
+  <img src="assets/mascot.svg" width="100%" alt="Pixi, mi mascota, programando en su laptop" />
+</p>
+
 <div align="center">
 
 ### 💗 ¡Construyamos algo increíble juntos!
