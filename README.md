@@ -24,9 +24,10 @@
   <img src="https://img.shields.io/badge/📍_Colombia-2a0a20?style=flat-square" alt="Colombia" />
 </p>
 
-<img src="assets/divider.svg" width="100%" alt="" />
+<br/>
 
-## 👨‍💻 Sobre mí
+<!-- ═══════════════ 01 · SOBRE MÍ ═══════════════ -->
+<img src="assets/headers/sobre-mi.svg" width="100%" alt="01 — Sobre mí" />
 
 <table>
 <tr>
@@ -65,9 +66,14 @@ public class SergioVelasco {
 </tr>
 </table>
 
-<img src="assets/divider.svg" width="100%" alt="" />
+<br/>
 
-## 🛠️ Tech Stack
+<!-- ═══════════════ 02 · LO QUE HAGO ═══════════════ -->
+<img src="assets/headers/stack.svg" width="100%" alt="02 — Lo que hago" />
+
+<p align="center">
+  <img src="assets/services.svg" width="100%" alt="Backend en Java · Bases de datos · Interfaces web" />
+</p>
 
 <div align="center">
 
@@ -77,9 +83,10 @@ public class SergioVelasco {
 
 </div>
 
-<img src="assets/divider.svg" width="100%" alt="" />
+<br/>
 
-## 🌟 Proyectos destacados
+<!-- ═══════════════ 03 · PROYECTOS ═══════════════ -->
+<img src="assets/headers/proyectos.svg" width="100%" alt="03 — Proyectos" />
 
 <p align="center">
   <a href="https://github.com/velascodazasergio-png/RapidExpress-triada"><img src="assets/projects/rapidexpress.svg" width="49%" alt="RapidExpress — Sistema CLI de gestión de flotas y rutas" /></a>
@@ -90,32 +97,33 @@ public class SergioVelasco {
   <a href="https://github.com/velascodazasergio-png?tab=repositories"><img src="assets/projects/mas-proyectos.svg" width="49%" alt="Ver todos los repositorios" /></a>
 </p>
 
-<img src="assets/divider.svg" width="100%" alt="" />
+<br/>
 
-## 📊 Estadísticas
+<!-- ═══════════════ 04 · ESTADÍSTICAS ═══════════════ -->
+<!-- Tarjetas propias generadas por scripts/cards.py (workflow readme-cards.yml) -->
+<img src="assets/headers/estadisticas.svg" width="100%" alt="04 — Estadísticas" />
 
 <p align="center">
-  <img src="https://github-stats-extended.vercel.app/api?username=velascodazasergio-png&show_icons=true&include_all_commits=true&card_width=500&bg_color=30,4a1236,2a0a20&title_color=ff8cc6&icon_color=f472b6&text_color=ffe4f1&ring_color=f472b6&border_color=f472b6&border_radius=24&locale=es" height="180" alt="Stats de GitHub" />
-  <img src="https://github-stats-extended.vercel.app/api/top-langs?username=velascodazasergio-png&layout=compact&langs_count=8&card_width=420&bg_color=30,4a1236,2a0a20&title_color=ff8cc6&text_color=ffe4f1&border_color=f472b6&border_radius=24&locale=es" height="180" alt="Lenguajes más usados" />
+  <img src="profile/stats.svg" width="49%" alt="Estadísticas de GitHub" />
+  <img src="profile/langs.svg" width="49%" alt="Lenguajes más usados" />
 </p>
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com/?user=velascodazasergio-png&background=30,4A1236,2A0A20&ring=FF69B4&fire=F472B6&currStreakNum=FFE4F1&currStreakLabel=FF8CC6&sideNums=FFE4F1&sideLabels=F9A8D4&dates=F9A8D4&stroke=F472B6&border=F472B6&border_radius=24&card_width=920&locale=es" width="100%" alt="Racha de contribuciones" />
-</p>
-
-<p align="center">
-  <img src="https://ghchart.rshah.org/ec4899/velascodazasergio-png" width="100%" alt="Contribuciones del último año" />
+  <img src="profile/contrib.svg" width="100%" alt="Contribuciones del último año" />
 </p>
 
 <p align="center">
   <img src="https://raw.githubusercontent.com/velascodazasergio-png/velascodazasergio-png/output/snake-pink.svg" width="100%" alt="Serpiente comiéndose mis contribuciones" />
 </p>
 
-<img src="assets/divider.svg" width="100%" alt="" />
+<br/>
+
+<!-- ═══════════════ 05 · CONTACTO ═══════════════ -->
+<img src="assets/headers/contacto.svg" width="100%" alt="05 — Contacto" />
 
 <div align="center">
 
-## 💗 ¡Construyamos algo increíble juntos!
+### 💗 ¡Construyamos algo increíble juntos!
 
 ¿Tienes una idea, un proyecto o una oportunidad? Me encantará escucharte.
 

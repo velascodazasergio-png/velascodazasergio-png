@@ -1,0 +1,43 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="220" viewBox="0 0 1200 220">
+<defs>
+ <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1"><stop offset="0" stop-color="#4a1236"/><stop offset=".6" stop-color="#2a0a20"/><stop offset="1" stop-color="#3b1030"/></linearGradient>
+ <style>
+  .t{font:800 24px 'Segoe UI', 'Helvetica Neue', Helvetica, Arial, sans-serif;fill:#ffe4f1}
+  .d{font:400 17px 'Segoe UI', 'Helvetica Neue', Helvetica, Arial, sans-serif;fill:#f9a8d4}
+  .k{font:900 30px 'Segoe UI', 'Helvetica Neue', Helvetica, Arial, sans-serif;fill:#f472b6;opacity:.25}
+  @keyframes up{from{opacity:0;transform:translateY(10px)}to{opacity:1;transform:none}}
+  .up{animation:up .8s ease-out both}
+ </style>
+</defs>
+<g class="up" style="animation-delay:0.00s">
+ <rect x="1.5" y="1.5" width="389" height="217" rx="24" fill="url(#bg)" stroke="#f472b6" stroke-opacity=".5" stroke-width="1.5"/>
+ <rect x="32" y="0" width="70" height="4" rx="2" fill="#ff8cc6"/>
+ <g transform="translate(32,32)">
+  <rect width="52" height="52" rx="16" fill="#1a0714" fill-opacity=".6" stroke="#ff8cc6" stroke-opacity=".8"/>
+  <g transform="translate(26,26)" fill="none" stroke="#ff8cc6" stroke-width="2.4" stroke-linecap="round" stroke-linejoin="round"><path d="M-6 -9l-8 9 8 9M6 -9l8 9-8 9"/></g>
+ </g>
+ <text x="100" y="66" class="t">Backend en Java</text>
+ <text y="122" class="d"><tspan x="32" dy="0">Aplicaciones con Java y Maven</tspan><tspan x="32" dy="24">organizadas en arquitectura MVC</tspan><tspan x="32" dy="24">y capas bien separadas.</tspan></text>
+ <text x="358" y="196" text-anchor="end" class="k">01</text>
+</g><g class="up" style="animation-delay:0.15s">
+ <rect x="405.5" y="1.5" width="389" height="217" rx="24" fill="url(#bg)" stroke="#f472b6" stroke-opacity=".5" stroke-width="1.5"/>
+ <rect x="436" y="0" width="70" height="4" rx="2" fill="#f472b6"/>
+ <g transform="translate(436,32)">
+  <rect width="52" height="52" rx="16" fill="#1a0714" fill-opacity=".6" stroke="#f472b6" stroke-opacity=".8"/>
+  <g transform="translate(26,26)" fill="none" stroke="#f472b6" stroke-width="2.4" stroke-linecap="round" stroke-linejoin="round"><ellipse cx="0" cy="-8" rx="11" ry="4"/><path d="M-11 -8v16c0 2.2 4.9 4 11 4s11-1.8 11-4V-8M-11 0c0 2.2 4.9 4 11 4s11-1.8 11-4"/></g>
+ </g>
+ <text x="504" y="66" class="t">Bases de datos</text>
+ <text y="122" class="d"><tspan x="436" dy="0">Modelado relacional, consultas</tspan><tspan x="436" dy="24">SQL y persistencia con MySQL</tspan><tspan x="436" dy="24">y SQLite.</tspan></text>
+ <text x="762" y="196" text-anchor="end" class="k">02</text>
+</g><g class="up" style="animation-delay:0.30s">
+ <rect x="809.5" y="1.5" width="389" height="217" rx="24" fill="url(#bg)" stroke="#f472b6" stroke-opacity=".5" stroke-width="1.5"/>
+ <rect x="840" y="0" width="70" height="4" rx="2" fill="#c084fc"/>
+ <g transform="translate(840,32)">
+  <rect width="52" height="52" rx="16" fill="#1a0714" fill-opacity=".6" stroke="#c084fc" stroke-opacity=".8"/>
+  <g transform="translate(26,26)" fill="none" stroke="#c084fc" stroke-width="2.4" stroke-linecap="round" stroke-linejoin="round"><rect x="-13" y="-11" width="26" height="22" rx="4"/><path d="M-13 -4h26"/><circle cx="-8" cy="-7.5" r=".8"/></g>
+ </g>
+ <text x="908" y="66" class="t">Interfaces web</text>
+ <text y="122" class="d"><tspan x="840" dy="0">Páginas dinámicas y animadas</tspan><tspan x="840" dy="24">con HTML, CSS y JavaScript,</tspan><tspan x="840" dy="24">publicadas en Netlify.</tspan></text>
+ <text x="1166" y="196" text-anchor="end" class="k">03</text>
+</g>
+</svg>
