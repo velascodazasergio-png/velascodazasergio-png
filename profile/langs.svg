@@ -1,0 +1,57 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="600" height="300" viewBox="0 0 600 300">
+<defs>
+ <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1"><stop offset="0" stop-color="#4a1236"/><stop offset=".6" stop-color="#2a0a20"/><stop offset="1" stop-color="#3b1030"/></linearGradient>
+ <radialGradient id="gl" cx=".95" cy="0" r=".7"><stop offset="0" stop-color="#f472b6" stop-opacity=".4"/><stop offset="1" stop-color="#f472b6" stop-opacity="0"/></radialGradient>
+ <linearGradient id="bar" x1="0" y1="0" x2="1" y2="0"><stop offset="0" stop-color="#ff8cc6"/><stop offset="1" stop-color="#c084fc"/></linearGradient>
+ <style>
+  .t{font:800 26px 'Segoe UI', 'Helvetica Neue', Helvetica, Arial, sans-serif;fill:#ffe4f1}
+  .l{font:600 15px 'Segoe UI', 'Helvetica Neue', Helvetica, Arial, sans-serif;fill:#f9a8d4}
+  .v{font:800 22px 'Segoe UI', 'Helvetica Neue', Helvetica, Arial, sans-serif;fill:#ffe4f1}
+  .s{font:600 12px 'Segoe UI', 'Helvetica Neue', Helvetica, Arial, sans-serif;fill:#f9a8d4;opacity:.75}
+  @keyframes pulse{0%,100%{opacity:.5}50%{opacity:1}}
+  .glow{animation:pulse 5s ease-in-out infinite}
+  @keyframes up{from{opacity:0;transform:translateY(8px)}to{opacity:1;transform:none}}
+  .up{animation:up .7s ease-out both}
+  .grow{transform-origin:40px 0;animation:grow 1.4s cubic-bezier(.2,.8,.2,1) both}@keyframes grow{from{transform:scaleX(0)}}
+ </style>
+</defs>
+<rect x="1.5" y="1.5" width="597" height="297" rx="26" fill="url(#bg)" stroke="#f472b6" stroke-opacity=".55" stroke-width="1.5"/>
+<rect x="1.5" y="1.5" width="597" height="297" rx="26" fill="url(#gl)" class="glow"/>
+<rect x="40" y="0" width="90" height="4" rx="2" fill="url(#bar)"/>
+<g transform="translate(40,34)">
+ <rect width="48" height="48" rx="14" fill="#1a0714" fill-opacity=".6" stroke="#f472b6" stroke-opacity=".7"/>
+ <g transform="translate(24,24)" fill="none" stroke="#ff8cc6" stroke-width="2.4" stroke-linecap="round" stroke-linejoin="round"><path d="M-6 -9l-8 9 8 9M6 -9l8 9-8 9"/></g>
+</g>
+<text x="104" y="67" class="t">Lenguajes más usados</text>
+
+<defs><clipPath id="cb"><rect x="40" y="108" width="520" height="14" rx="7"/></clipPath></defs><rect x="40" y="108" width="520" height="14" rx="7" fill="#1a0714" fill-opacity=".6"/><g clip-path="url(#cb)"><g class="grow"><rect x="40.0" y="108" width="118.9" height="14" fill="#ff8cc6"/><rect x="161.9" y="108" width="101.9" height="14" fill="#f472b6"/><rect x="266.8" y="108" width="95.1" height="14" fill="#db2777"/><rect x="364.9" y="108" width="75.1" height="14" fill="#c084fc"/><rect x="443.0" y="108" width="68.2" height="14" fill="#a855f7"/><rect x="514.1" y="108" width="42.9" height="14" fill="#f9a8d4"/></g></g><g class="up" style="animation-delay:0.30s">
+ <circle cx="47" cy="157" r="7" fill="#ff8cc6"/>
+ <text x="64" y="162" class="l" style="fill:#ffe4f1">TypeScript</text>
+ <text x="300" y="162" text-anchor="end" class="l">23.3%</text>
+</g>
+<g class="up" style="animation-delay:0.38s">
+ <circle cx="327" cy="157" r="7" fill="#f472b6"/>
+ <text x="344" y="162" class="l" style="fill:#ffe4f1">CSS</text>
+ <text x="580" y="162" text-anchor="end" class="l">20.1%</text>
+</g>
+<g class="up" style="animation-delay:0.46s">
+ <circle cx="47" cy="203" r="7" fill="#db2777"/>
+ <text x="64" y="208" class="l" style="fill:#ffe4f1">HTML</text>
+ <text x="300" y="208" text-anchor="end" class="l">18.8%</text>
+</g>
+<g class="up" style="animation-delay:0.54s">
+ <circle cx="327" cy="203" r="7" fill="#c084fc"/>
+ <text x="344" y="208" class="l" style="fill:#ffe4f1">Java</text>
+ <text x="580" y="208" text-anchor="end" class="l">15.0%</text>
+</g>
+<g class="up" style="animation-delay:0.62s">
+ <circle cx="47" cy="249" r="7" fill="#a855f7"/>
+ <text x="64" y="254" class="l" style="fill:#ffe4f1">JavaScript</text>
+ <text x="300" y="254" text-anchor="end" class="l">13.6%</text>
+</g>
+<g class="up" style="animation-delay:0.70s">
+ <circle cx="327" cy="249" r="7" fill="#f9a8d4"/>
+ <text x="344" y="254" class="l" style="fill:#ffe4f1">Python</text>
+ <text x="580" y="254" text-anchor="end" class="l">8.8%</text>
+</g>
+</svg>

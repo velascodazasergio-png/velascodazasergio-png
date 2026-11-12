@@ -1,15 +1,63 @@
-
-    <svg width="576.5"  height="120" viewBox="0 0 576.5 120" fill="30,4a1236,2a0a20" xmlns="http://www.w3.org/2000/svg">
-    <style>
-    .text { font: 600 16px 'Segoe UI', Ubuntu, Sans-Serif; fill: #ff8cc6 }
-    .small { font: 600 12px 'Segoe UI', Ubuntu, Sans-Serif; fill: #ffe4f1 }
-    .gray { fill: #858585 }
-    </style>
-    <rect x="0.5" y="0.5" width="575.5" height="99%" rx="4.5" fill="30,4a1236,2a0a20" stroke="#f472b6"/>
-    <text x="25" y="45" class="text">Something went wrong! file an issue at https://tiny.one/readme-stats</text>
-    <text data-testid="message" x="25" y="55" class="text small">
-      <tspan x="25" dy="18">Resource not accessible by integration</tspan>
-      <tspan x="25" dy="18" class="gray">OK</tspan>
-    </text>
-    </svg>
+<svg xmlns="http://www.w3.org/2000/svg" width="600" height="300" viewBox="0 0 600 300">
+<defs>
+ <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1"><stop offset="0" stop-color="#4a1236"/><stop offset=".6" stop-color="#2a0a20"/><stop offset="1" stop-color="#3b1030"/></linearGradient>
+ <radialGradient id="gl" cx=".95" cy="0" r=".7"><stop offset="0" stop-color="#f472b6" stop-opacity=".4"/><stop offset="1" stop-color="#f472b6" stop-opacity="0"/></radialGradient>
+ <linearGradient id="bar" x1="0" y1="0" x2="1" y2="0"><stop offset="0" stop-color="#ff8cc6"/><stop offset="1" stop-color="#c084fc"/></linearGradient>
+ <style>
+  .t{font:800 26px 'Segoe UI', 'Helvetica Neue', Helvetica, Arial, sans-serif;fill:#ffe4f1}
+  .l{font:600 15px 'Segoe UI', 'Helvetica Neue', Helvetica, Arial, sans-serif;fill:#f9a8d4}
+  .v{font:800 22px 'Segoe UI', 'Helvetica Neue', Helvetica, Arial, sans-serif;fill:#ffe4f1}
+  .s{font:600 12px 'Segoe UI', 'Helvetica Neue', Helvetica, Arial, sans-serif;fill:#f9a8d4;opacity:.75}
+  @keyframes pulse{0%,100%{opacity:.5}50%{opacity:1}}
+  .glow{animation:pulse 5s ease-in-out infinite}
+  @keyframes up{from{opacity:0;transform:translateY(8px)}to{opacity:1;transform:none}}
+  .up{animation:up .7s ease-out both}
   
+ </style>
+</defs>
+<rect x="1.5" y="1.5" width="597" height="297" rx="26" fill="url(#bg)" stroke="#f472b6" stroke-opacity=".55" stroke-width="1.5"/>
+<rect x="1.5" y="1.5" width="597" height="297" rx="26" fill="url(#gl)" class="glow"/>
+<rect x="40" y="0" width="90" height="4" rx="2" fill="url(#bar)"/>
+<g transform="translate(40,34)">
+ <rect width="48" height="48" rx="14" fill="#1a0714" fill-opacity=".6" stroke="#f472b6" stroke-opacity=".7"/>
+ <g transform="translate(24,24)" fill="none" stroke="#ff8cc6" stroke-width="2.4" stroke-linecap="round" stroke-linejoin="round"><path d="M-12 12V-2M-4 12V-12M4 12V0M12 12V-7"/></g>
+</g>
+<text x="104" y="67" class="t">Estadísticas</text>
+
+<g class="up" style="animation-delay:0.10s">
+ <rect x="40" y="112" width="260" height="46" rx="14" fill="#1a0714" fill-opacity=".45" stroke="#f472b6" stroke-opacity=".25"/>
+ <g transform="translate(64,135) scale(.8)" fill="none" stroke="#ff8cc6" stroke-width="2.4" stroke-linecap="round" stroke-linejoin="round"><rect x="-9" y="-8" width="18" height="17" rx="3"/><path d="M-9 -2h18M-4 -11v5M4 -11v5"/></g>
+ <text x="86" y="140" class="l">Contribuciones</text>
+ <text x="284" y="142" text-anchor="end" class="v">991</text>
+</g>
+<g class="up" style="animation-delay:0.18s">
+ <rect x="320" y="112" width="260" height="46" rx="14" fill="#1a0714" fill-opacity=".45" stroke="#f472b6" stroke-opacity=".25"/>
+ <g transform="translate(344,135) scale(.8)" fill="none" stroke="#ff8cc6" stroke-width="2.4" stroke-linecap="round" stroke-linejoin="round"><circle r="4.5"/><path d="M-11 0h6.5M4.5 0h6.5"/></g>
+ <text x="366" y="140" class="l">Commits (año)</text>
+ <text x="564" y="142" text-anchor="end" class="v">940</text>
+</g>
+<g class="up" style="animation-delay:0.26s">
+ <rect x="40" y="168" width="260" height="46" rx="14" fill="#1a0714" fill-opacity=".45" stroke="#f472b6" stroke-opacity=".25"/>
+ <g transform="translate(64,191) scale(.8)" fill="none" stroke="#ff8cc6" stroke-width="2.4" stroke-linecap="round" stroke-linejoin="round"><path d="M-8 9V-8a2 2 0 0 1 2-2H8v16H-6a2 2 0 0 0-2 2a2 2 0 0 0 2 2H8"/></g>
+ <text x="86" y="196" class="l">Repositorios</text>
+ <text x="284" y="198" text-anchor="end" class="v">45</text>
+</g>
+<g class="up" style="animation-delay:0.34s">
+ <rect x="320" y="168" width="260" height="46" rx="14" fill="#1a0714" fill-opacity=".45" stroke="#f472b6" stroke-opacity=".25"/>
+ <g transform="translate(344,191) scale(.8)" fill="none" stroke="#ff8cc6" stroke-width="2.4" stroke-linecap="round" stroke-linejoin="round"><circle cx="-5" cy="-7" r="2.6"/><circle cx="-5" cy="7" r="2.6"/><circle cx="6" cy="7" r="2.6"/><path d="M-5 -4.4v8.8M6 4.4V-3a3 3 0 0 0-3-3H0"/></g>
+ <text x="366" y="196" class="l">Pull Requests</text>
+ <text x="564" y="198" text-anchor="end" class="v">3</text>
+</g>
+<g class="up" style="animation-delay:0.42s">
+ <rect x="40" y="224" width="260" height="46" rx="14" fill="#1a0714" fill-opacity=".45" stroke="#f472b6" stroke-opacity=".25"/>
+ <g transform="translate(64,247) scale(.8)" fill="none" stroke="#ff8cc6" stroke-width="2.4" stroke-linecap="round" stroke-linejoin="round"><path d="M0 -10l3 6.3 6.8.9-5 4.7 1.3 6.8L0 5.4-6.1 8.7l1.3-6.8-5-4.7 6.8-.9z"/></g>
+ <text x="86" y="252" class="l">Estrellas</text>
+ <text x="284" y="254" text-anchor="end" class="v">9</text>
+</g>
+<g class="up" style="animation-delay:0.50s">
+ <rect x="320" y="224" width="260" height="46" rx="14" fill="#1a0714" fill-opacity=".45" stroke="#f472b6" stroke-opacity=".25"/>
+ <g transform="translate(344,247) scale(.8)" fill="none" stroke="#ff8cc6" stroke-width="2.4" stroke-linecap="round" stroke-linejoin="round"><circle cy="-4" r="4.5"/><path d="M-9 10a9 7 0 0 1 18 0"/></g>
+ <text x="366" y="252" class="l">Seguidores</text>
+ <text x="564" y="254" text-anchor="end" class="v">5</text>
+</g>
+</svg>
