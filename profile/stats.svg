@@ -28,13 +28,13 @@
  <rect x="40" y="112" width="260" height="46" rx="14" fill="#1a0714" fill-opacity=".45" stroke="#f472b6" stroke-opacity=".25"/>
  <g transform="translate(64,135) scale(.8)" fill="none" stroke="#ff8cc6" stroke-width="2.4" stroke-linecap="round" stroke-linejoin="round"><rect x="-9" y="-8" width="18" height="17" rx="3"/><path d="M-9 -2h18M-4 -11v5M4 -11v5"/></g>
  <text x="86" y="140" class="l">Contribuciones</text>
- <text x="284" y="142" text-anchor="end" class="v">991</text>
+ <text x="284" y="142" text-anchor="end" class="v">995</text>
 </g>
 <g class="up" style="animation-delay:0.18s">
  <rect x="320" y="112" width="260" height="46" rx="14" fill="#1a0714" fill-opacity=".45" stroke="#f472b6" stroke-opacity=".25"/>
  <g transform="translate(344,135) scale(.8)" fill="none" stroke="#ff8cc6" stroke-width="2.4" stroke-linecap="round" stroke-linejoin="round"><circle r="4.5"/><path d="M-11 0h6.5M4.5 0h6.5"/></g>
  <text x="366" y="140" class="l">Commits (año)</text>
- <text x="564" y="142" text-anchor="end" class="v">940</text>
+ <text x="564" y="142" text-anchor="end" class="v">944</text>
 </g>
 <g class="up" style="animation-delay:0.26s">
  <rect x="40" y="168" width="260" height="46" rx="14" fill="#1a0714" fill-opacity=".45" stroke="#f472b6" stroke-opacity=".25"/>
