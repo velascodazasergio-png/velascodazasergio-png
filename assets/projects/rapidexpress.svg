@@ -1,0 +1,31 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="600" height="280" viewBox="0 0 600 280">
+<defs>
+ <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1"><stop offset="0" stop-color="#4a1236"/><stop offset=".6" stop-color="#2a0a20"/><stop offset="1" stop-color="#3b1030"/></linearGradient>
+ <radialGradient id="gl" cx=".95" cy="0" r=".7"><stop offset="0" stop-color="#f472b6" stop-opacity=".45"/><stop offset="1" stop-color="#f472b6" stop-opacity="0"/></radialGradient>
+ <linearGradient id="bar" x1="0" y1="0" x2="1" y2="0"><stop offset="0" stop-color="#ff8cc6"/><stop offset="1" stop-color="#c084fc"/></linearGradient>
+ <style>
+  .t{font:800 28px 'Segoe UI', 'Helvetica Neue', Helvetica, Arial, sans-serif;fill:#ffe4f1}
+  .d{font:400 17px 'Segoe UI', 'Helvetica Neue', Helvetica, Arial, sans-serif;fill:#f9a8d4}
+  .tag{font:700 14px 'Segoe UI', 'Helvetica Neue', Helvetica, Arial, sans-serif;fill:#ffe4f1}
+  .b{font:800 12px 'Segoe UI', 'Helvetica Neue', Helvetica, Arial, sans-serif;fill:#2a0a20;letter-spacing:1px}
+  .ar{font:800 26px 'Segoe UI', 'Helvetica Neue', Helvetica, Arial, sans-serif;fill:#f472b6}
+  @keyframes pulse{0%,100%{opacity:.5}50%{opacity:1}}
+  .glow{animation:pulse 5s ease-in-out infinite}
+  @keyframes slide{0%,100%{transform:translateX(0)}50%{transform:translateX(6px)}}
+  .mv{animation:slide 2.2s ease-in-out infinite}
+ </style>
+</defs>
+<rect x="1.5" y="1.5" width="597" height="277" rx="26" fill="url(#bg)" stroke="#f472b6" stroke-opacity=".55" stroke-width="1.5"/>
+<rect x="1.5" y="1.5" width="597" height="277" rx="26" fill="url(#gl)" class="glow"/>
+<rect x="40" y="0" width="90" height="4" rx="2" fill="url(#bar)"/>
+<g transform="translate(40,38)">
+ <rect width="52" height="52" rx="14" fill="#1a0714" fill-opacity=".6" stroke="#f472b6" stroke-opacity=".7"/>
+ <g transform="translate(26,26)" fill="none" stroke="#ff8cc6" stroke-width="2.6" stroke-linecap="round" stroke-linejoin="round"><path d="M-15 -8h17v15h-17z"/><path d="M2 -3h7l5 5v5h-12"/><circle cx="-9" cy="10" r="3"/><circle cx="8" cy="10" r="3"/></g>
+</g>
+<text x="108" y="74" class="t">RapidExpress</text>
+<rect x="465" y="44" width="95" height="24" rx="12" fill="#f9a8d4"/>
+<text x="513" y="60" text-anchor="middle" class="b">EN EQUIPO</text>
+<text y="130" class="d"><tspan x="40" dy="0">Sistema CLI de gestión de flotas y rutas.</tspan><tspan x="40" dy="26">Desarrollé los módulos de flota de vehículos</tspan><tspan x="40" dy="26">y de personal (conductores).</tspan></text>
+<rect x="40" y="214" width="60" height="30" rx="15" fill="#2a0f22" fill-opacity=".7" stroke="#f472b6" stroke-opacity=".6"/><text x="70" y="234" text-anchor="middle" class="tag">Java</text><rect x="110" y="214" width="71" height="30" rx="15" fill="#2a0f22" fill-opacity=".7" stroke="#f472b6" stroke-opacity=".6"/><text x="145" y="234" text-anchor="middle" class="tag">Maven</text><rect x="191" y="214" width="58" height="30" rx="15" fill="#2a0f22" fill-opacity=".7" stroke="#f472b6" stroke-opacity=".6"/><text x="220" y="234" text-anchor="middle" class="tag">MVC</text><rect x="259" y="214" width="76" height="30" rx="15" fill="#2a0f22" fill-opacity=".7" stroke="#f472b6" stroke-opacity=".6"/><text x="297" y="234" text-anchor="middle" class="tag">MySQL</text>
+<text x="556" y="238" text-anchor="end" class="ar mv">→</text>
+</svg>

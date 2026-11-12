@@ -1,0 +1,31 @@
+name: Serpiente de contribuciones
+
+on:
+  schedule:
+    - cron: "0 */12 * * *"   # cada 12 horas
+  workflow_dispatch:          # botón "Run workflow" para ejecutarlo a mano
+  push:
+    branches: [main]
+    paths: [".github/workflows/snake.yml"]
+
+permissions:
+  contents: write
+
+jobs:
+  snake:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Generar la serpiente
+        uses: Platane/snk@v3
+        with:
+          github_user_name: ${{ github.repository_owner }}
+          outputs: |
+            dist/snake-pink.svg?palette=github-dark&color_snake=#f472b6&color_dots=#2a0a20,#5c1a45,#9d2a6e,#db2777,#ff8cc6&color_background=#00000000
+
+      - name: Publicar en la rama output
+        uses: crazy-max/ghaction-github-pages@v4
+        with:
+          target_branch: output
+          build_dir: dist
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}

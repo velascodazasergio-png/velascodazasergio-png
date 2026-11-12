@@ -1,0 +1,14 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="140" viewBox="0 0 1200 140">
+<defs>
+ <linearGradient id="w" x1="0" y1="0" x2="1" y2="0"><stop offset="0" stop-color="#db2777"/><stop offset=".5" stop-color="#4a1236"/><stop offset="1" stop-color="#c084fc"/></linearGradient>
+ <style>
+  @keyframes a{0%,100%{transform:translateX(0)}50%{transform:translateX(-60px)}}
+  @keyframes b{0%,100%{transform:translateX(-60px)}50%{transform:translateX(0)}}
+  .a{animation:a 9s ease-in-out infinite}.b{animation:b 12s ease-in-out infinite}
+  .t{font:700 16px 'Segoe UI', 'Helvetica Neue', Helvetica, Arial, sans-serif;fill:#ffe4f1;letter-spacing:4px}
+ </style>
+</defs>
+<path class="b" d="M-60 60 C 140 20, 340 100, 540 60 S 940 20, 1140 60 S 1340 100, 1400 60 V140 H-60Z" fill="url(#w)" opacity=".35"/>
+<path class="a" d="M-60 80 C 160 40, 360 120, 600 80 S 1000 40, 1260 85 V140 H-60Z" fill="url(#w)" opacity=".85"/>
+<text x="600" y="122" text-anchor="middle" class="t">GRACIAS POR VISITAR · SV</text>
+</svg>
