@@ -104,7 +104,7 @@ public class SergioVelasco {
 </p>
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=velascodazasergio-png&bg_color=2a0a20&color=ffe4f1&title_color=ff8cc6&line=f472b6&point=ffe4f1&area=true&area_color=db2777&hide_border=false&border_color=f472b6&radius=24&custom_title=Actividad%20de%20contribuciones" width="100%" alt="Gráfico de actividad" />
+  <img src="https://ghchart.rshah.org/ec4899/velascodazasergio-png" width="100%" alt="Contribuciones del último año" />
 </p>
 
 <p align="center">
