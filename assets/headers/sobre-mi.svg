@@ -20,6 +20,6 @@
 <text x="36" y="67" class="n">01</text>
 <rect x="128" y="24" width="3" height="48" rx="1.5" fill="url(#n)"/>
 <g class="in"><text x="152" y="48" class="t">Sobre mí</text>
-<text x="152" y="74" class="s">Quién soy y cómo trabajo</text></g>
+<text x="152" y="74" class="s">Quién soy, qué me mueve y cómo trabajo</text></g>
 <text x="1164" y="54" text-anchor="end" class="g">// about.java</text>
 </svg>

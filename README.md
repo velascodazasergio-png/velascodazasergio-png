@@ -7,7 +7,7 @@
 
 <p align="center">
   <a href="https://portafoliosergy.netlify.app/">
-    <img src="https://readme-typing-svg.demolab.com?font=Space+Grotesk&weight=700&size=24&pause=1000&color=F472B6&center=true&vCenter=true&width=640&lines=Desarrollador+de+Software+en+formaci%C3%B3n;Java+%E2%80%A2+Maven+%E2%80%A2+MySQL+%E2%80%A2+SQL;Arquitectura+MVC+y+c%C3%B3digo+limpio;Transformo+ideas+en+soluciones+de+software" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com?font=Space+Mono&weight=700&size=22&pause=1000&color=F472B6&center=true&vCenter=true&width=720&lines=Software+Developer+%40+Lean+Solutions+Group;2%C2%BA+puesto+Hackathon+CampusVerse+AI+(~600+participantes);Java+%E2%80%A2+TypeScript+%E2%80%A2+React+%E2%80%A2+SQL+%E2%80%A2+IA;Transformo+problemas+reales+en+soluciones+de+software" alt="Typing SVG" />
   </a>
 </p>
 
@@ -15,13 +15,18 @@
   <a href="https://portafoliosergy.netlify.app/"><img src="https://img.shields.io/badge/Portafolio-2A0A20?style=for-the-badge&logo=googlechrome&logoColor=F9A8D4" alt="Portafolio" /></a>
   <a href="https://www.linkedin.com/in/sergio-velasco-daza/"><img src="https://img.shields.io/badge/LinkedIn-DB2777?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
   <a href="mailto:velascodazasergio@gmail.com"><img src="https://img.shields.io/badge/Email-F472B6?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
-  <a href="https://github.com/velascodazasergio-png?tab=repositories"><img src="https://img.shields.io/badge/Repositorios-4A1236?style=for-the-badge&logo=github&logoColor=F9A8D4" alt="Repositorios" /></a>
+  <a href="https://canva.link/uhcjiiot0f9mflz"><img src="https://img.shields.io/badge/Descargar_CV-4A1236?style=for-the-badge&logo=readdotcv&logoColor=F9A8D4" alt="Descargar CV" /></a>
 </p>
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=velascodazasergio-png&label=Visitas&color=db2777&style=flat-square" alt="Visitas al perfil" />
   <img src="https://img.shields.io/github/followers/velascodazasergio-png?label=Seguidores&style=flat-square&color=f472b6&labelColor=2a0a20&logo=github" alt="Seguidores" />
-  <img src="https://img.shields.io/badge/📍_Colombia-2a0a20?style=flat-square" alt="Colombia" />
+  <img src="https://img.shields.io/badge/Colombia-2a0a20?style=flat-square&logo=googlemaps&logoColor=f472b6" alt="Colombia" />
+  <img src="https://img.shields.io/badge/Inglés-B1-f472b6?style=flat-square&labelColor=2a0a20" alt="Inglés B1" />
+</p>
+
+<p align="center">
+  <img src="assets/highlights.svg" width="100%" alt="2º puesto Hackathon CampusVerse AI · ~600 participantes · 6 meses en LSG · 6+ proyectos" />
 </p>
 
 <br/>
@@ -33,13 +38,15 @@
 <tr>
 <td width="55%" valign="top">
 
-Desarrollador de software en formación en **Campuslands** 🇨🇴. Me gusta convertir problemas reales en soluciones de software claras, mantenibles y bien estructuradas.
+Soy **Software Developer en Lean Solutions Group (LSG)** y desarrollador en formación en **Campuslands**. Tengo experiencia práctica en **desarrollo de sistemas, bases de datos, automatización, inteligencia artificial y desarrollo web**, y participo en proyectos completos: desde el diseño de la solución y el desarrollo de funcionalidades hasta la integración de bases de datos, automatizaciones y herramientas modernas.
 
-- 🔭 **Construyendo:** mi portafolio web, dinámico y con animaciones.
-- 🚚 **En equipo:** *RapidExpress*, gestión de flotas y rutas en Java + MySQL.
-- 🕵️ **Practicando:** SQL resolviendo casos tipo *murder mystery*.
-- 🌱 **Aprendiendo:** Spring Boot, APIs REST y testing con JUnit.
-- 📐 **Filosofía:** código limpio, capas bien separadas y bases de datos bien diseñadas.
+- 💼 **Ahora:** construyo páginas web responsivas con React y TypeScript en LSG.
+- 🏆 **Logro:** 2º puesto en la Hackathon **CampusVerse AI** entre ~600 participantes.
+- 🤖 **Me apasiona:** automatizar flujos con **n8n** e integrar IA con **OpenAI**.
+- 🗄️ **Fuerte en datos:** MySQL y PostgreSQL con triggers, procedimientos y roles.
+- 🌐 **Idiomas:** Español (nativo) · Inglés (B1).
+
+> **Mi diferencial:** combino aprendizaje constante, pensamiento analítico y adaptación tecnológica con la creación de soluciones prácticas.
 
 </td>
 <td width="45%" valign="top">
@@ -47,16 +54,19 @@ Desarrollador de software en formación en **Campuslands** 🇨🇴. Me gusta co
 ```java
 public class SergioVelasco {
 
-    String ubicacion = "Colombia 🇨🇴";
-    String formacion = "Campuslands";
+    String rol     = "Software Developer";
+    String empresa = "Lean Solutions Group";
+    String campus  = "Campuslands";
 
-    String[] backend  = {"Java", "Maven"};
-    String[] datos    = {"MySQL", "SQLite"};
-    String[] frontend = {"HTML", "CSS", "JS"};
+    String[] code  = {"Java", "Python", "TS"};
+    String[] web   = {"React", "Node.js"};
+    String[] datos = {"MySQL", "PostgreSQL"};
+    String[] ia    = {"n8n", "OpenAI"};
 
-    String arquitectura = "MVC";
+    // 2º de ~600 en CampusVerse AI
+    int hackathon = 2;
 
-    boolean abiertoAColaborar() {
+    boolean abiertoAOportunidades() {
         return true;
     }
 }
@@ -66,42 +76,89 @@ public class SergioVelasco {
 </tr>
 </table>
 
-<br/>
+<table>
+<tr>
+<td width="50%" valign="top">
 
-<!-- ═══════════════ 02 · LO QUE HAGO ═══════════════ -->
-<img src="assets/headers/stack.svg" width="100%" alt="02 — Lo que hago" />
+#### 🎯 Mi misión
+Desarrollar soluciones de software que conviertan problemas reales en herramientas **útiles, eficientes e innovadoras**, mientras sigo aprendiendo y creciendo como profesional de la tecnología.
+
+</td>
+<td width="50%" valign="top">
+
+#### 🔭 Mi visión
+Consolidarme como un desarrollador capaz de participar en **proyectos tecnológicos de alto impacto**, aportar soluciones innovadoras y seguir evolucionando junto con las nuevas tecnologías.
+
+</td>
+</tr>
+</table>
 
 <p align="center">
-  <img src="assets/services.svg" width="100%" alt="Backend en Java · Bases de datos · Interfaces web" />
+  <img src="https://img.shields.io/badge/🤝_Trabajo_en_equipo-2a0a20?style=flat-square" alt="Trabajo en equipo" />
+  <img src="https://img.shields.io/badge/🔄_Adaptabilidad-2a0a20?style=flat-square" alt="Adaptabilidad" />
+  <img src="https://img.shields.io/badge/🧠_Pensamiento_analítico-2a0a20?style=flat-square" alt="Pensamiento analítico" />
+  <img src="https://img.shields.io/badge/🧩_Resolución_de_problemas-2a0a20?style=flat-square" alt="Resolución de problemas" />
+  <img src="https://img.shields.io/badge/📚_Aprendizaje_continuo-2a0a20?style=flat-square" alt="Aprendizaje continuo" />
+</p>
+
+<br/>
+
+<!-- ═══════════════ 02 · EXPERIENCIA Y LOGROS ═══════════════ -->
+<img src="assets/headers/experiencia.svg" width="100%" alt="02 — Experiencia y logros" />
+
+<p align="center">
+  <img src="assets/experience.svg" width="100%" alt="Software Developer en Lean Solutions Group · 2º puesto Hackathon CampusVerse AI · Formación en Campuslands" />
+</p>
+
+<br/>
+
+<!-- ═══════════════ 03 · LO QUE HAGO ═══════════════ -->
+<img src="assets/headers/stack.svg" width="100%" alt="03 — Lo que hago" />
+
+<p align="center">
+  <img src="assets/services.svg" width="100%" alt="Backend y sistemas · Bases de datos · Frontend web · Automatización e IA" />
 </p>
 
 <div align="center">
 
-| ⚙️ Backend | 🗄️ Bases de datos | 🎨 Frontend | 🧰 Herramientas |
-| :---: | :---: | :---: | :---: |
-| <img src="https://skillicons.dev/icons?i=java,maven&theme=dark" height="44" alt="Java, Maven" /> | <img src="https://skillicons.dev/icons?i=mysql,sqlite&theme=dark" height="44" alt="MySQL, SQLite" /> | <img src="https://skillicons.dev/icons?i=html,css,js&theme=dark" height="44" alt="HTML, CSS, JavaScript" /> | <img src="https://skillicons.dev/icons?i=git,github,vscode&theme=dark" height="44" alt="Git, GitHub, VS Code" /> |
+| | |
+| :--- | :--- |
+| **💻 Lenguajes** | <img src="https://skillicons.dev/icons?i=java,python,js,ts,html,css&theme=dark" height="42" alt="Java, Python, JavaScript, TypeScript, HTML5, CSS3" /> |
+| **⚛️ Frameworks** | <img src="https://skillicons.dev/icons?i=react,nodejs,spring&theme=dark" height="42" alt="React, Node.js, Spring Boot" /> |
+| **🗄️ Bases de datos** | <img src="https://skillicons.dev/icons?i=mysql,postgres&theme=dark" height="42" alt="MySQL, PostgreSQL" /> |
+| **🧰 Herramientas** | <img src="https://skillicons.dev/icons?i=git,github,docker,vscode,idea,maven&theme=dark" height="42" alt="Git, GitHub, Docker, VS Code, IntelliJ IDEA, Maven" /> |
+| **🤖 IA y automatización** | <img src="https://img.shields.io/badge/n8n-EA4B71?style=for-the-badge&logo=n8n&logoColor=white" alt="n8n" /> <img src="https://img.shields.io/badge/OpenAI_GPT--4-10A37F?style=for-the-badge" alt="OpenAI GPT-4" /> <img src="https://img.shields.io/badge/Telegram_Bots-26A5E4?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram" /> |
+| **🛠️ También uso** | <img src="https://img.shields.io/badge/DBeaver-382923?style=for-the-badge&logo=dbeaver&logoColor=white" alt="DBeaver" /> <img src="https://img.shields.io/badge/NetBeans-1B6AC6?style=for-the-badge&logo=apachenetbeanside&logoColor=white" alt="NetBeans" /> <img src="https://img.shields.io/badge/Netlify-00C7B7?style=for-the-badge&logo=netlify&logoColor=white" alt="Netlify" /> |
 
 </div>
 
 <br/>
 
-<!-- ═══════════════ 03 · PROYECTOS ═══════════════ -->
-<img src="assets/headers/proyectos.svg" width="100%" alt="03 — Proyectos" />
+<!-- ═══════════════ 04 · PROYECTOS ═══════════════ -->
+<img src="assets/headers/proyectos.svg" width="100%" alt="04 — Proyectos" />
 
 <p align="center">
-  <a href="https://github.com/velascodazasergio-png/RapidExpress-triada"><img src="assets/projects/rapidexpress.svg" width="49%" alt="RapidExpress — Sistema CLI de gestión de flotas y rutas" /></a>
-  <a href="https://portafoliosergy.netlify.app/"><img src="assets/projects/portafolio.svg" width="49%" alt="Portafolio Web" /></a>
+  <a href="https://github.com/velascodazasergio-png/CampusVerse-AI-hackathon"><img src="assets/projects/campusverse.svg" width="49%" alt="CampusVerse AI — 2º puesto en hackathon" /></a>
+  <a href="https://github.com/velascodazasergio-png/HelpDeskAI"><img src="assets/projects/helpdesk.svg" width="49%" alt="HelpDesk AI — Gestión de incidencias con n8n y OpenAI" /></a>
 </p>
 <p align="center">
-  <a href="https://github.com/velascodazasergio-png?tab=repositories"><img src="assets/projects/midnight-murder.svg" width="49%" alt="The Midnight Murder — Taller de SQL" /></a>
-  <a href="https://github.com/velascodazasergio-png?tab=repositories"><img src="assets/projects/mas-proyectos.svg" width="49%" alt="Ver todos los repositorios" /></a>
+  <a href="https://github.com/velascodazasergio-png/RapidExpress-triada_JAVA"><img src="assets/projects/rapidexpress.svg" width="49%" alt="RapidExpress — Gestión de flotas y rutas" /></a>
+  <a href="https://github.com/velascodazasergio-png/CoworkingSpace-DB"><img src="assets/projects/coworking.svg" width="49%" alt="CoworkingSpace — Sistema de base de datos" /></a>
+</p>
+<p align="center">
+  <a href="https://github.com/velascodazasergio-png/Proyecto_JavaScript_velascosergy"><img src="assets/projects/campusbuild.svg" width="49%" alt="CampusBuild — Project Manager System" /></a>
+  <a href="https://github.com/velascodazasergio-png/music-stream-app"><img src="assets/projects/musicstream.svg" width="49%" alt="MusicStream — Plataforma web musical" /></a>
+</p>
+
+<p align="center">
+  <a href="https://github.com/velascodazasergio-png?tab=repositories"><img src="https://img.shields.io/badge/Ver_todos_los_repositorios_→-2A0A20?style=for-the-badge&logo=github&logoColor=F9A8D4" alt="Ver todos los repositorios" /></a>
 </p>
 
 <br/>
 
-<!-- ═══════════════ 04 · ESTADÍSTICAS ═══════════════ -->
+<!-- ═══════════════ 05 · ESTADÍSTICAS ═══════════════ -->
 <!-- Tarjetas propias generadas por scripts/cards.py (workflow readme-cards.yml) -->
-<img src="assets/headers/estadisticas.svg" width="100%" alt="04 — Estadísticas" />
+<img src="assets/headers/estadisticas.svg" width="100%" alt="05 — Estadísticas" />
 
 <p align="center">
   <img src="profile/stats.svg" width="49%" alt="Estadísticas de GitHub" />
@@ -118,8 +175,8 @@ public class SergioVelasco {
 
 <br/>
 
-<!-- ═══════════════ 05 · CONTACTO ═══════════════ -->
-<img src="assets/headers/contacto.svg" width="100%" alt="05 — Contacto" />
+<!-- ═══════════════ 06 · CONTACTO ═══════════════ -->
+<img src="assets/headers/contacto.svg" width="100%" alt="06 — Contacto" />
 
 <p align="center">
   <img src="assets/mascot.svg" width="100%" alt="Pixi, mi mascota, programando en su laptop" />
@@ -127,13 +184,15 @@ public class SergioVelasco {
 
 <div align="center">
 
-### 💗 ¡Construyamos algo increíble juntos!
+### 💗 ¿Creamos algo juntos?
 
-¿Tienes una idea, un proyecto o una oportunidad? Me encantará escucharte.
+Estoy buscando **oportunidades en desarrollo de software**.<br/>
+Si tienes un proyecto, una vacante o una idea, escríbeme.
 
 <a href="mailto:velascodazasergio@gmail.com"><img src="https://img.shields.io/badge/Enviar_correo-F472B6?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
 <a href="https://www.linkedin.com/in/sergio-velasco-daza/"><img src="https://img.shields.io/badge/Conectar_en_LinkedIn-DB2777?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
 <a href="https://portafoliosergy.netlify.app/"><img src="https://img.shields.io/badge/Ver_portafolio-2A0A20?style=for-the-badge&logo=googlechrome&logoColor=F9A8D4" alt="Portafolio" /></a>
+<a href="https://canva.link/uhcjiiot0f9mflz"><img src="https://img.shields.io/badge/Descargar_CV-4A1236?style=for-the-badge&logo=readdotcv&logoColor=F9A8D4" alt="Descargar CV" /></a>
 
 <br/><br/>
 

@@ -17,9 +17,9 @@
 </defs>
 <rect x="1.5" y="1.5" width="1197" height="93" rx="22" fill="url(#bg)" stroke="#f472b6" stroke-opacity=".5" stroke-width="1.5"/>
 <g clip-path="url(#c)"><rect class="sw" x="0" y="0" width="300" height="96" fill="url(#sw)" transform="skewX(-20)"/></g>
-<text x="36" y="67" class="n">05</text>
+<text x="36" y="67" class="n">06</text>
 <rect x="128" y="24" width="3" height="48" rx="1.5" fill="url(#n)"/>
 <g class="in"><text x="152" y="48" class="t">Contacto</text>
-<text x="152" y="74" class="s">Hablemos de tu próxima idea</text></g>
+<text x="152" y="74" class="s">¿Creamos algo juntos?</text></g>
 <text x="1164" y="54" text-anchor="end" class="g">// hello.sh</text>
 </svg>
