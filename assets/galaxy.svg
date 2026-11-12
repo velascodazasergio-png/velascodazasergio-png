@@ -1,0 +1,88 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="1200" height="490" viewBox="0 0 1200 490">
+<defs>
+ <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1"><stop offset="0" stop-color="#3b0d2c"/><stop offset=".55" stop-color="#1f0718"/><stop offset="1" stop-color="#2d0b28"/></linearGradient>
+ <radialGradient id="core" cx=".4" cy=".35" r=".7"><stop offset="0" stop-color="#ffd1e8"/><stop offset=".5" stop-color="#f472b6"/><stop offset="1" stop-color="#9d2a6e"/></radialGradient>
+ <radialGradient id="halo"><stop offset="0" stop-color="#ff69b4" stop-opacity=".55"/><stop offset="1" stop-color="#ff69b4" stop-opacity="0"/></radialGradient>
+ <clipPath id="fr"><rect x="2" y="2" width="1196" height="486" rx="30"/></clipPath>
+ <style>
+  .pl{font:700 14px 'Segoe UI', 'Helvetica Neue', Helvetica, Arial, sans-serif;fill:#ffe4f1}
+  .tt{font:800 13px 'Segoe UI', 'Helvetica Neue', Helvetica, Arial, sans-serif;fill:#f9a8d4;letter-spacing:4px}
+  .lg{font:600 13px 'Segoe UI', 'Helvetica Neue', Helvetica, Arial, sans-serif;fill:#f9a8d4}
+  .sv{font:900 34px 'Segoe UI', 'Helvetica Neue', Helvetica, Arial, sans-serif;fill:#2a0a20}
+  @keyframes tw{0%,100%{opacity:.15}50%{opacity:1}} .tw{animation:tw 3s ease-in-out infinite}
+  @keyframes pulse{0%,100%{transform:scale(1);opacity:.8}50%{transform:scale(1.25);opacity:.4}}
+  .halo{transform-origin:600px 245px;animation:pulse 3.5s ease-in-out infinite}
+  @keyframes ds{to{stroke-dashoffset:-120}} .ds{animation:ds 6s linear infinite}
+ </style>
+</defs>
+<g clip-path="url(#fr)">
+ <rect width="1200" height="490" fill="url(#bg)"/>
+ <circle class="tw" cx="67" cy="45" r="1.4" fill="#ffe4f1" style="animation-delay:3.29s;animation-duration:2.8s"/><circle class="tw" cx="567" cy="440" r="1.8" fill="#ffe4f1" style="animation-delay:1.53s;animation-duration:3.8s"/><circle class="tw" cx="800" cy="344" r="1.8" fill="#ffe4f1" style="animation-delay:1.28s;animation-duration:4.6s"/><circle class="tw" cx="343" cy="294" r="1.4" fill="#ffe4f1" style="animation-delay:2.28s;animation-duration:3.3s"/><circle class="tw" cx="938" cy="25" r="1" fill="#ffe4f1" style="animation-delay:1.62s;animation-duration:3.0s"/><circle class="tw" cx="912" cy="138" r="1" fill="#ffe4f1" style="animation-delay:3.19s;animation-duration:5.0s"/><circle class="tw" cx="154" cy="66" r="1.4" fill="#ffe4f1" style="animation-delay:3.83s;animation-duration:4.2s"/><circle class="tw" cx="251" cy="234" r="1" fill="#ffe4f1" style="animation-delay:2.86s;animation-duration:4.4s"/><circle class="tw" cx="640" cy="33" r="1" fill="#ffe4f1" style="animation-delay:1.09s;animation-duration:3.4s"/><circle class="tw" cx="829" cy="254" r="1" fill="#ffe4f1" style="animation-delay:1.57s;animation-duration:4.5s"/><circle class="tw" cx="1071" cy="56" r="1.8" fill="#ffe4f1" style="animation-delay:0.52s;animation-duration:3.6s"/><circle class="tw" cx="746" cy="433" r="1.8" fill="#ffe4f1" style="animation-delay:2.20s;animation-duration:4.1s"/><circle class="tw" cx="603" cy="391" r="1.4" fill="#ffe4f1" style="animation-delay:1.85s;animation-duration:4.1s"/><circle class="tw" cx="258" cy="347" r="1" fill="#ffe4f1" style="animation-delay:0.85s;animation-duration:4.7s"/><circle class="tw" cx="1157" cy="464" r="1.4" fill="#ffe4f1" style="animation-delay:1.05s;animation-duration:4.3s"/><circle class="tw" cx="38" cy="247" r="1" fill="#ffe4f1" style="animation-delay:1.76s;animation-duration:3.9s"/><circle class="tw" cx="911" cy="239" r="1" fill="#ffe4f1" style="animation-delay:0.87s;animation-duration:4.7s"/><circle class="tw" cx="518" cy="32" r="1.4" fill="#ffe4f1" style="animation-delay:2.75s;animation-duration:4.8s"/><circle class="tw" cx="566" cy="474" r="1.8" fill="#ffe4f1" style="animation-delay:3.78s;animation-duration:3.7s"/><circle class="tw" cx="1121" cy="55" r="1" fill="#ffe4f1" style="animation-delay:1.76s;animation-duration:3.9s"/><circle class="tw" cx="984" cy="273" r="1" fill="#ffe4f1" style="animation-delay:2.09s;animation-duration:4.6s"/><circle class="tw" cx="670" cy="159" r="1.8" fill="#ffe4f1" style="animation-delay:3.82s;animation-duration:4.7s"/><circle class="tw" cx="727" cy="155" r="1" fill="#ffe4f1" style="animation-delay:3.87s;animation-duration:3.8s"/><circle class="tw" cx="685" cy="108" r="1" fill="#ffe4f1" style="animation-delay:2.01s;animation-duration:4.0s"/><circle class="tw" cx="52" cy="460" r="1.8" fill="#ffe4f1" style="animation-delay:2.18s;animation-duration:5.0s"/><circle class="tw" cx="161" cy="59" r="1" fill="#ffe4f1" style="animation-delay:0.26s;animation-duration:3.8s"/><circle class="tw" cx="500" cy="454" r="1.8" fill="#ffe4f1" style="animation-delay:1.08s;animation-duration:3.7s"/><circle class="tw" cx="167" cy="215" r="1.8" fill="#ffe4f1" style="animation-delay:2.10s;animation-duration:2.8s"/><circle class="tw" cx="507" cy="29" r="1.4" fill="#ffe4f1" style="animation-delay:0.52s;animation-duration:4.4s"/><circle class="tw" cx="46" cy="105" r="1" fill="#ffe4f1" style="animation-delay:0.05s;animation-duration:3.2s"/><circle class="tw" cx="859" cy="128" r="1.8" fill="#ffe4f1" style="animation-delay:0.42s;animation-duration:4.3s"/><circle class="tw" cx="162" cy="250" r="1.4" fill="#ffe4f1" style="animation-delay:2.87s;animation-duration:4.3s"/><circle class="tw" cx="1039" cy="27" r="1.8" fill="#ffe4f1" style="animation-delay:3.30s;animation-duration:4.0s"/><circle class="tw" cx="644" cy="412" r="1" fill="#ffe4f1" style="animation-delay:2.12s;animation-duration:4.6s"/><circle class="tw" cx="730" cy="408" r="1" fill="#ffe4f1" style="animation-delay:3.66s;animation-duration:4.1s"/><circle class="tw" cx="423" cy="99" r="1.4" fill="#ffe4f1" style="animation-delay:3.56s;animation-duration:3.0s"/><circle class="tw" cx="923" cy="105" r="1" fill="#ffe4f1" style="animation-delay:0.54s;animation-duration:3.1s"/><circle class="tw" cx="863" cy="135" r="1" fill="#ffe4f1" style="animation-delay:1.74s;animation-duration:4.9s"/><circle class="tw" cx="650" cy="339" r="1" fill="#ffe4f1" style="animation-delay:1.61s;animation-duration:4.2s"/><circle class="tw" cx="41" cy="108" r="1.4" fill="#ffe4f1" style="animation-delay:3.65s;animation-duration:4.9s"/><circle class="tw" cx="154" cy="248" r="1.4" fill="#ffe4f1" style="animation-delay:2.01s;animation-duration:4.2s"/><circle class="tw" cx="239" cy="48" r="1" fill="#ffe4f1" style="animation-delay:0.10s;animation-duration:4.4s"/><circle class="tw" cx="732" cy="431" r="1.8" fill="#ffe4f1" style="animation-delay:0.59s;animation-duration:3.0s"/><circle class="tw" cx="257" cy="401" r="1.4" fill="#ffe4f1" style="animation-delay:3.71s;animation-duration:2.7s"/><circle class="tw" cx="92" cy="452" r="1.8" fill="#ffe4f1" style="animation-delay:0.31s;animation-duration:2.7s"/><circle class="tw" cx="473" cy="211" r="1.4" fill="#ffe4f1" style="animation-delay:1.72s;animation-duration:4.0s"/><circle class="tw" cx="35" cy="337" r="1" fill="#ffe4f1" style="animation-delay:0.73s;animation-duration:3.6s"/><circle class="tw" cx="878" cy="202" r="1" fill="#ffe4f1" style="animation-delay:2.42s;animation-duration:2.7s"/><circle class="tw" cx="939" cy="164" r="1" fill="#ffe4f1" style="animation-delay:3.21s;animation-duration:4.3s"/><circle class="tw" cx="1018" cy="304" r="1.8" fill="#ffe4f1" style="animation-delay:2.28s;animation-duration:3.0s"/><circle class="tw" cx="698" cy="172" r="1.4" fill="#ffe4f1" style="animation-delay:1.12s;animation-duration:2.8s"/><circle class="tw" cx="882" cy="89" r="1.8" fill="#ffe4f1" style="animation-delay:0.53s;animation-duration:3.3s"/><circle class="tw" cx="645" cy="185" r="1.8" fill="#ffe4f1" style="animation-delay:3.06s;animation-duration:3.5s"/><circle class="tw" cx="858" cy="48" r="1.4" fill="#ffe4f1" style="animation-delay:1.21s;animation-duration:2.8s"/><circle class="tw" cx="1050" cy="470" r="1" fill="#ffe4f1" style="animation-delay:0.93s;animation-duration:4.9s"/><circle class="tw" cx="793" cy="171" r="1.8" fill="#ffe4f1" style="animation-delay:2.28s;animation-duration:3.8s"/><circle class="tw" cx="472" cy="474" r="1" fill="#ffe4f1" style="animation-delay:2.81s;animation-duration:4.4s"/><circle class="tw" cx="1157" cy="26" r="1" fill="#ffe4f1" style="animation-delay:2.96s;animation-duration:3.1s"/><circle class="tw" cx="486" cy="39" r="1" fill="#ffe4f1" style="animation-delay:2.59s;animation-duration:2.5s"/><circle class="tw" cx="320" cy="142" r="1.4" fill="#ffe4f1" style="animation-delay:2.20s;animation-duration:3.8s"/><circle class="tw" cx="1142" cy="276" r="1" fill="#ffe4f1" style="animation-delay:2.55s;animation-duration:4.5s"/><circle class="tw" cx="108" cy="290" r="1" fill="#ffe4f1" style="animation-delay:1.55s;animation-duration:4.8s"/><circle class="tw" cx="468" cy="460" r="1.8" fill="#ffe4f1" style="animation-delay:2.17s;animation-duration:4.0s"/><circle class="tw" cx="518" cy="242" r="1.4" fill="#ffe4f1" style="animation-delay:2.11s;animation-duration:4.0s"/><circle class="tw" cx="444" cy="147" r="1.4" fill="#ffe4f1" style="animation-delay:2.24s;animation-duration:3.2s"/><circle class="tw" cx="851" cy="152" r="1" fill="#ffe4f1" style="animation-delay:3.09s;animation-duration:4.0s"/><circle class="tw" cx="754" cy="203" r="1.8" fill="#ffe4f1" style="animation-delay:0.21s;animation-duration:3.3s"/><circle class="tw" cx="481" cy="282" r="1.4" fill="#ffe4f1" style="animation-delay:0.29s;animation-duration:4.8s"/><circle class="tw" cx="518" cy="235" r="1" fill="#ffe4f1" style="animation-delay:0.18s;animation-duration:2.7s"/><circle class="tw" cx="960" cy="433" r="1" fill="#ffe4f1" style="animation-delay:3.92s;animation-duration:4.5s"/>
+</g>
+<rect x="2" y="2" width="1196" height="486" rx="30" fill="none" stroke="#f472b6" stroke-opacity=".5" stroke-width="1.5"/>
+<text x="40" y="44" class="tt">MI UNIVERSO TECH</text>
+<path id="o0" d="M365,245 a235,72 0 1,1 470,0 a235,72 0 1,1 -470,0" fill="none" stroke="#ff8cc6" stroke-opacity=".28" stroke-width="1.4" stroke-dasharray="3 9" class="ds"/><path id="o1" d="M205,245 a395,128 0 1,0 790,0 a395,128 0 1,0 -790,0" fill="none" stroke="#c084fc" stroke-opacity=".28" stroke-width="1.4" stroke-dasharray="3 9" class="ds"/><path id="o2" d="M85,245 a515,185 0 1,1 1030,0 a515,185 0 1,1 -1030,0" fill="none" stroke="#ffd66b" stroke-opacity=".28" stroke-width="1.4" stroke-dasharray="3 9" class="ds"/>
+<circle class="halo" cx="600" cy="245" r="80" fill="url(#halo)"/>
+<circle cx="600" cy="245" r="42" fill="url(#core)" stroke="#ffe4f1" stroke-opacity=".6" stroke-width="2"/>
+<text x="600" y="257" text-anchor="middle" class="sv">SV</text>
+<g><animateMotion dur="26s" repeatCount="indefinite" begin="0.00s"><mpath xlink:href="#o0"/></animateMotion>
+ <rect x="-34" y="-15" width="68" height="30" rx="15" fill="#1c0817" fill-opacity=".92" stroke="#ff8cc6" stroke-opacity=".75"/>
+ <circle cx="-19" cy="0" r="5" fill="#f89820"/>
+ <text x="-9" y="5" class="pl">Java</text></g><g><animateMotion dur="26s" repeatCount="indefinite" begin="-6.50s"><mpath xlink:href="#o0"/></animateMotion>
+ <rect x="-42" y="-15" width="84" height="30" rx="15" fill="#1c0817" fill-opacity=".92" stroke="#ff8cc6" stroke-opacity=".75"/>
+ <circle cx="-27" cy="0" r="5" fill="#ffd43b"/>
+ <text x="-17" y="5" class="pl">Python</text></g><g><animateMotion dur="26s" repeatCount="indefinite" begin="-13.00s"><mpath xlink:href="#o0"/></animateMotion>
+ <rect x="-57" y="-15" width="115" height="30" rx="15" fill="#1c0817" fill-opacity=".92" stroke="#ff8cc6" stroke-opacity=".75"/>
+ <circle cx="-42" cy="0" r="5" fill="#3178c6"/>
+ <text x="-32" y="5" class="pl">TypeScript</text></g><g><animateMotion dur="26s" repeatCount="indefinite" begin="-19.50s"><mpath xlink:href="#o0"/></animateMotion>
+ <rect x="-57" y="-15" width="115" height="30" rx="15" fill="#1c0817" fill-opacity=".92" stroke="#ff8cc6" stroke-opacity=".75"/>
+ <circle cx="-42" cy="0" r="5" fill="#f7df1e"/>
+ <text x="-32" y="5" class="pl">JavaScript</text></g><g><animateMotion dur="40s" repeatCount="indefinite" begin="0.00s"><mpath xlink:href="#o1"/></animateMotion>
+ <rect x="-38" y="-15" width="76" height="30" rx="15" fill="#1c0817" fill-opacity=".92" stroke="#c084fc" stroke-opacity=".75"/>
+ <circle cx="-23" cy="0" r="5" fill="#61dafb"/>
+ <text x="-13" y="5" class="pl">React</text></g><g><animateMotion dur="40s" repeatCount="indefinite" begin="-6.67s"><mpath xlink:href="#o1"/></animateMotion>
+ <rect x="-60" y="-15" width="119" height="30" rx="15" fill="#1c0817" fill-opacity=".92" stroke="#c084fc" stroke-opacity=".75"/>
+ <circle cx="-45" cy="0" r="5" fill="#6db33f"/>
+ <text x="-35" y="5" class="pl">Spring Boot</text></g><g><animateMotion dur="40s" repeatCount="indefinite" begin="-13.33s"><mpath xlink:href="#o1"/></animateMotion>
+ <rect x="-44" y="-15" width="89" height="30" rx="15" fill="#1c0817" fill-opacity=".92" stroke="#c084fc" stroke-opacity=".75"/>
+ <circle cx="-29" cy="0" r="5" fill="#5fa04e"/>
+ <text x="-19" y="5" class="pl">Node.js</text></g><g><animateMotion dur="40s" repeatCount="indefinite" begin="-20.00s"><mpath xlink:href="#o1"/></animateMotion>
+ <rect x="-49" y="-15" width="97" height="30" rx="15" fill="#1c0817" fill-opacity=".92" stroke="#c084fc" stroke-opacity=".75"/>
+ <circle cx="-34" cy="0" r="5" fill="#009688"/>
+ <text x="-24" y="5" class="pl">FastAPI</text></g><g><animateMotion dur="40s" repeatCount="indefinite" begin="-26.67s"><mpath xlink:href="#o1"/></animateMotion>
+ <rect x="-47" y="-15" width="95" height="30" rx="15" fill="#1c0817" fill-opacity=".92" stroke="#c084fc" stroke-opacity=".75"/>
+ <circle cx="-32" cy="0" r="5" fill="#38bdf8"/>
+ <text x="-22" y="5" class="pl">Tailwind</text></g><g><animateMotion dur="40s" repeatCount="indefinite" begin="-33.33s"><mpath xlink:href="#o1"/></animateMotion>
+ <rect x="-32" y="-15" width="65" height="30" rx="15" fill="#1c0817" fill-opacity=".92" stroke="#c084fc" stroke-opacity=".75"/>
+ <circle cx="-17" cy="0" r="5" fill="#a855f7"/>
+ <text x="-7" y="5" class="pl">Vite</text></g><g><animateMotion dur="56s" repeatCount="indefinite" begin="0.00s"><mpath xlink:href="#o2"/></animateMotion>
+ <rect x="-42" y="-15" width="84" height="30" rx="15" fill="#1c0817" fill-opacity=".92" stroke="#ffd66b" stroke-opacity=".75"/>
+ <circle cx="-27" cy="0" r="5" fill="#4479a1"/>
+ <text x="-17" y="5" class="pl">MySQL</text></g><g><animateMotion dur="56s" repeatCount="indefinite" begin="-7.00s"><mpath xlink:href="#o2"/></animateMotion>
+ <rect x="-61" y="-15" width="121" height="30" rx="15" fill="#1c0817" fill-opacity=".92" stroke="#ffd66b" stroke-opacity=".75"/>
+ <circle cx="-46" cy="0" r="5" fill="#4169e1"/>
+ <text x="-36" y="5" class="pl">PostgreSQL</text></g><g><animateMotion dur="56s" repeatCount="indefinite" begin="-14.00s"><mpath xlink:href="#o2"/></animateMotion>
+ <rect x="-29" y="-15" width="58" height="30" rx="15" fill="#1c0817" fill-opacity=".92" stroke="#ffd66b" stroke-opacity=".75"/>
+ <circle cx="-14" cy="0" r="5" fill="#ea4b71"/>
+ <text x="-4" y="5" class="pl">n8n</text></g><g><animateMotion dur="56s" repeatCount="indefinite" begin="-21.00s"><mpath xlink:href="#o2"/></animateMotion>
+ <rect x="-44" y="-15" width="87" height="30" rx="15" fill="#1c0817" fill-opacity=".92" stroke="#ffd66b" stroke-opacity=".75"/>
+ <circle cx="-29" cy="0" r="5" fill="#10a37f"/>
+ <text x="-19" y="5" class="pl">OpenAI</text></g><g><animateMotion dur="56s" repeatCount="indefinite" begin="-28.00s"><mpath xlink:href="#o2"/></animateMotion>
+ <rect x="-41" y="-15" width="82" height="30" rx="15" fill="#1c0817" fill-opacity=".92" stroke="#ffd66b" stroke-opacity=".75"/>
+ <circle cx="-26" cy="0" r="5" fill="#8e75b2"/>
+ <text x="-16" y="5" class="pl">Gemini</text></g><g><animateMotion dur="56s" repeatCount="indefinite" begin="-35.00s"><mpath xlink:href="#o2"/></animateMotion>
+ <rect x="-42" y="-15" width="84" height="30" rx="15" fill="#1c0817" fill-opacity=".92" stroke="#ffd66b" stroke-opacity=".75"/>
+ <circle cx="-27" cy="0" r="5" fill="#dc244c"/>
+ <text x="-17" y="5" class="pl">Qdrant</text></g><g><animateMotion dur="56s" repeatCount="indefinite" begin="-42.00s"><mpath xlink:href="#o2"/></animateMotion>
+ <rect x="-42" y="-15" width="84" height="30" rx="15" fill="#1c0817" fill-opacity=".92" stroke="#ffd66b" stroke-opacity=".75"/>
+ <circle cx="-27" cy="0" r="5" fill="#2496ed"/>
+ <text x="-17" y="5" class="pl">Docker</text></g><g><animateMotion dur="56s" repeatCount="indefinite" begin="-49.00s"><mpath xlink:href="#o2"/></animateMotion>
+ <rect x="-28" y="-15" width="56" height="30" rx="15" fill="#1c0817" fill-opacity=".92" stroke="#ffd66b" stroke-opacity=".75"/>
+ <circle cx="-13" cy="0" r="5" fill="#f05032"/>
+ <text x="-3" y="5" class="pl">Git</text></g>
+<g transform="translate(40,462)">
+ <circle r="5" fill="#ff8cc6"/><text x="12" y="5" class="lg">Lenguajes</text>
+ <circle cx="112" r="5" fill="#c084fc"/><text x="124" y="5" class="lg">Frameworks</text>
+ <circle cx="232" r="5" fill="#ffd66b"/><text x="244" y="5" class="lg">Datos, IA y herramientas</text>
+</g>
+</svg>

@@ -47,23 +47,7 @@ Soy **desarrollador de software en formación en Campuslands**. Tengo experienci
 </td>
 <td width="45%" valign="top">
 
-```java
-public class SergioVelasco {
-
-    String rol    = "Software Developer";
-    String campus = "Campuslands";
-    String pais   = "Colombia";
-
-    String[] code  = {"Java", "Python", "TS"};
-    String[] web   = {"React", "Node.js"};
-    String[] datos = {"MySQL", "PostgreSQL"};
-    String[] ia    = {"n8n", "OpenAI"};
-
-    boolean abiertoAOportunidades() {
-        return true;
-    }
-}
-```
+<img src="assets/terminal.svg" width="100%" alt="Terminal: whoami, stack, misión y disponibilidad" />
 
 </td>
 </tr>
@@ -101,6 +85,10 @@ Consolidarme como un desarrollador capaz de participar en **proyectos tecnológi
 
 <p align="center">
   <img src="assets/services.svg" width="100%" alt="Backend y sistemas · Bases de datos · Frontend web · Automatización e IA" />
+</p>
+
+<p align="center">
+  <img src="assets/galaxy.svg" width="100%" alt="Mi universo tech: lenguajes, frameworks, datos e IA orbitando" />
 </p>
 
 <div align="center">
